@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2049891358463127888",
+    "created_at": "2026-05-01T07:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050110422334783937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696300267187339264",
+          "start": 0,
+          "username": "yuyng1910316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050110422334783937",
+    "in_reply_to_user_id": "1696300267187339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050067448905482323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyng1910316 可能换其他药吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2049891358463127888",
+        "created_at": "2026-05-01T07:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050110422334783937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696300267187339264",
+              "start": 0,
+              "username": "yuyng1910316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050110422334783937",
+        "in_reply_to_user_id": "1696300267187339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050067448905482323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyng1910316 可能换其他药吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696300267187339264",
+        "conversation_id": "2049891358463127888",
+        "created_at": "2026-05-01T04:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050067448905482323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050067448905482323",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050067070662881321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 以后买不到了怎么办啊 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/中抑中焦/OD/高中生/OIer/彩笔音游人rks15.46/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天堂",
+        "name": "int喵🏳️‍⚧️🍥（第二世互fo寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 448,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T23:14:46.000Z",
+        "description": "",
+        "id": "1696300267187339264",
+        "name": "影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696300321700802560/7_9egG7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "yuyng1910316",
+        "verified": false
+      }
+    ]
+  }
+}

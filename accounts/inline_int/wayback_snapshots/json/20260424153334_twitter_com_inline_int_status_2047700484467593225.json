@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2047676746380833060",
+    "created_at": "2026-04-24T15:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047700484467593225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752259037566218240",
+          "start": 0,
+          "username": "aru_ve_lut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047700484467593225",
+    "in_reply_to_user_id": "1752259037566218240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047676746380833060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aru_ve_lut 内圈贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2047676742496919552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrPJfNboAAobBo.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2047676746380833060",
+        "created_at": "2026-04-24T15:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047700484467593225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752259037566218240",
+              "start": 0,
+              "username": "aru_ve_lut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047700484467593225",
+        "in_reply_to_user_id": "1752259037566218240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047676746380833060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aru_ve_lut 内圈贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047676742496919552"
+          ]
+        },
+        "author_id": "1752259037566218240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2047676746380833060",
+        "created_at": "2026-04-24T13:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047676746380833060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2045944141474156544/yA5sLEH0?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045944141474156544/yA5sLEH0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/XPbrYwSx8G"
+            },
+            {
+              "display_url": "pic.x.com/O1cGUBWDx1",
+              "end": 64,
+              "expanded_url": "https://x.com/aru_ve_lut/status/2047676746380833060/photo/1",
+              "media_key": "3_2047676742496919552",
+              "start": 41,
+              "url": "https://t.co/O1cGUBWDx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047676746380833060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/XPbrYwSx8G https://t.co/O1cGUBWDx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/INTP/已炸柜/家长党/轻抑中焦/强迫症/中度人际关系敏感/OD/高中生/OIer/彩笔音游人rks15.46/计算机狂热爱好者/不键政/看成分互fo/原名Register Int/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天堂",
+        "name": "int喵🏳️‍⚧️🍥（第二世互fo寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 339,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:14:57.000Z",
+        "description": "atto/见晴miharu/081013/日常推/中文/En/日语学习中/intp-a/od/自残/休学/希望和大家交朋友/超级社恐/欢迎互fo 直fo就是喜欢你  互fo没看到可以私信/欢迎大家找我聊天",
+        "id": "1752259037566218240",
+        "name": "见晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 251,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 160
+        },
+        "username": "aru_ve_lut",
+        "verified": false
+      }
+    ]
+  }
+}

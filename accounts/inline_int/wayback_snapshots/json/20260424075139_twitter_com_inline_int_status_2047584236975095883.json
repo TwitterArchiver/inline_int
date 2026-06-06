@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2047511687327072532",
+    "created_at": "2026-04-24T07:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047584236975095883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1849247136694890496",
+          "start": 0,
+          "username": "1314yuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047584236975095883",
+    "in_reply_to_user_id": "1849247136694890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047581558731931973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1314yuzi 正常上班50000+也不容易吧\n我还是太贫穷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2047511687327072532",
+        "created_at": "2026-04-24T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047584236975095883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1849247136694890496",
+              "start": 0,
+              "username": "1314yuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047584236975095883",
+        "in_reply_to_user_id": "1849247136694890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047581558731931973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1314yuzi 正常上班50000+也不容易吧\n我还是太贫穷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849247136694890496",
+        "conversation_id": "2047511687327072532",
+        "created_at": "2026-04-24T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047581558731931973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047581558731931973",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047511687327072532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 是排除了正常上班了的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/INTP/已炸柜/家长党/轻抑中焦/强迫症/中度人际关系敏感/OD/高中生/OIer/彩笔音游人rks15.46/计算机狂热爱好者/不键政/看成分互fo/原名Register Int/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天堂",
+        "name": "int喵🏳️‍⚧️🍥（第二世互fo寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 318,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T00:31:10.000Z",
+        "description": "mtf/yn🍥并非男娘🍥srs无望可能一辈子yn🍥我家老头@0712yuzi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "0712yuzi"
+              }
+            ]
+          }
+        },
+        "id": "1849247136694890496",
+        "location": "距离您520m",
+        "name": "是鱼鱼呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874995946750414849/R-Sr0ccG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 116,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 519
+        },
+        "username": "1314yuzi",
+        "verified": false
+      }
+    ]
+  }
+}

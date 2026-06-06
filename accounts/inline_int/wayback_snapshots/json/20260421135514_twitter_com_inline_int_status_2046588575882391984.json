@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2046578546563313985",
+    "created_at": "2026-04-21T13:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046588575882391984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913585990754861056",
+          "start": 0,
+          "username": "linbingyi288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046588575882391984",
+    "in_reply_to_user_id": "1913585990754861056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046588092375789633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linbingyi288 氯乙酸/亚硝酸钠一蒸就出来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2046578546563313985",
+        "created_at": "2026-04-21T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046588575882391984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913585990754861056",
+              "start": 0,
+              "username": "linbingyi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046588575882391984",
+        "in_reply_to_user_id": "1913585990754861056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046588092375789633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linbingyi288 氯乙酸/亚硝酸钠一蒸就出来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913585990754861056",
+        "conversation_id": "2046578546563313985",
+        "created_at": "2026-04-21T13:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046588092375789633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046588092375789633",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046578546563313985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 网购 硝基甲烷 好陌生的词语，我当初要不是因为买不起那一百一升的模型燃油然后又买不到硝基甲烷我现在也不会去玩死沉吵得要死震动还贼大的汽油机的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/INTP/已炸柜/家长党/轻抑中焦/强迫症/中度人际关系敏感/OD/高中生/OIer/彩笔音游人rks15.46/计算机狂热爱好者/不键政/看成分互fo/原名Register Int/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天堂",
+        "name": "int喵🏳️‍⚧️🍥（第二世互fo寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 219,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T13:31:07.000Z",
+        "description": "不被别人裹挟以自己喜欢的方式过这一生| @_Eric28_ 是我宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "_Eric28_"
+              }
+            ]
+          }
+        },
+        "id": "1913585990754861056",
+        "name": "雨诺潇潇🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978645565811597312/WqIfR0Ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 101,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 89
+        },
+        "username": "linbingyi288",
+        "verified": false
+      }
+    ]
+  }
+}

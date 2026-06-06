@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "username": "@inline_int",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 12,
+        "start": 2,
+        "username": "inlineint"
+      }
+    ]
+  }
+}
