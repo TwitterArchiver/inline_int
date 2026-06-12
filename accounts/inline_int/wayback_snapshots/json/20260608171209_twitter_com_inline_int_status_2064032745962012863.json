@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2063876518602850761",
+    "created_at": "2026-06-08T17:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064032745962012863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1224571063884898304",
+          "start": 0,
+          "username": "noein51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064032745962012863",
+    "in_reply_to_user_id": "1224571063884898304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064024140424818898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noein51 电子制造、信息科技"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2063876518602850761",
+        "created_at": "2026-06-08T17:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064032745962012863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1224571063884898304",
+              "start": 0,
+              "username": "noein51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064032745962012863",
+        "in_reply_to_user_id": "1224571063884898304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064024140424818898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noein51 电子制造、信息科技"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224571063884898304",
+        "conversation_id": "2063876518602850761",
+        "created_at": "2026-06-08T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064024140424818898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064024140424818898",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063876518602850761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 重仓什么股票？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/似乎转双向/自杀未遂/前ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 890,
+          "like_count": 914,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-04T05:51:16.000Z",
+        "description": "一般路过粉红",
+        "id": "1224571063884898304",
+        "name": "noein5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027010097847947264/FMECyauo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 210,
+          "like_count": 2044,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "noein51",
+        "verified": false
+      }
+    ]
+  }
+}

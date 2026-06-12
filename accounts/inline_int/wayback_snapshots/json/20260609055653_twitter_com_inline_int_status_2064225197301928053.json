@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2064225197301928053",
+    "created_at": "2026-06-09T05:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064225197301928053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902512265301258243",
+          "start": 3,
+          "username": "sacred1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064225197301928053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060011092785725501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacred1124: 热知识 右美沙芬可以止咳 双氢可待因可以止咳 普瑞巴林、加巴喷丁可以缓解神经痛抗癫痫 金刚烷胺可以抗病毒和治疗帕金森 美金刚可以治疗阿尔兹海默症 阿片可以止痛 愈美片、甘草片可以止咳化痰 修眉刀可以修整眉毛 水喝多了会尿尿 亚硝酸钠不应当被食用…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2064225197301928053",
+        "created_at": "2026-06-09T05:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225197301928053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902512265301258243",
+              "start": 3,
+              "username": "sacred1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225197301928053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060011092785725501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacred1124: 热知识 右美沙芬可以止咳 双氢可待因可以止咳 普瑞巴林、加巴喷丁可以缓解神经痛抗癫痫 金刚烷胺可以抗病毒和治疗帕金森 美金刚可以治疗阿尔兹海默症 阿片可以止痛 愈美片、甘草片可以止咳化痰 修眉刀可以修整眉毛 水喝多了会尿尿 亚硝酸钠不应当被食用…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2060011092785725501",
+        "created_at": "2026-05-28T14:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060011092785725501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060011092785725501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 19558,
+          "like_count": 313,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "热知识 右美沙芬可以止咳 双氢可待因可以止咳 普瑞巴林、加巴喷丁可以缓解神经痛抗癫痫 金刚烷胺可以抗病毒和治疗帕金森 美金刚可以治疗阿尔兹海默症 阿片可以止痛 愈美片、甘草片可以止咳化痰 修眉刀可以修整眉毛 水喝多了会尿尿 亚硝酸钠不应当被食用 麻绳不应当用来拉伸脖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生/OIer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 902,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki · 提问箱 https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 108,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 85,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 105,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

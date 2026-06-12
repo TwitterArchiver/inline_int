@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2063955967788597423",
+    "created_at": "2026-06-08T12:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063955967788597423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831712966150148097",
+          "start": 3,
+          "username": "zhangyv_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063955967788597423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061668348312858902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhangyv_ovo: 1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2063955967788597423",
+        "created_at": "2026-06-08T12:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063955967788597423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831712966150148097",
+              "start": 3,
+              "username": "zhangyv_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063955967788597423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061668348312858902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhangyv_ovo: 1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831712966150148097",
+        "conversation_id": "2061668348312858902",
+        "created_at": "2026-06-02T04:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061668348312858902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061668348312858902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要参与了抽奖就会获得参与奖一份！\n参与方式：点赞关注转帖即可参与\n抽奖方式为随机数抽取转帖名单\n如果抽到的是机器人或抽奖号将把奖项继续抽取给其他人\n开奖时间为达1000fo即刻抽取\n另外开奖之后参与奖需主动找我领取哦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9802,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 83,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要参与了抽奖就会获得参与奖一份！\n参与方式：点赞关注转帖即可参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/似乎转双向/自杀未遂/前ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 884,
+          "like_count": 895,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T15:16:26.000Z",
+        "description": "生日2010.04.04/xyn一个/170/52kg\n可以跟咱聊天/缺爱型/烤批/HRT🏳️‍⚧️2024.12.30\n渴望与别人抱抱/目前精神还算稳定？.../好老公@miaoeatcarrot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "miaoeatcarrot"
+              }
+            ]
+          }
+        },
+        "id": "1831712966150148097",
+        "location": "Kawasaki-shi Tama-ku, Kanagawa",
+        "name": "章鱼小丸子🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061668348312858902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019977478996099073/afO_rdl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 113,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 499
+        },
+        "username": "zhangyv_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

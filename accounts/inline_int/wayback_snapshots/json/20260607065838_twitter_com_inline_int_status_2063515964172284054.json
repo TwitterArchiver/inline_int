@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2063508721804677261",
+    "created_at": "2026-06-07T06:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063515964172284054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063515964172284054",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063513576929669164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 对的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2063508721804677261",
+        "created_at": "2026-06-07T06:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063515964172284054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063515964172284054",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063513576929669164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 对的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2063508721804677261",
+        "created_at": "2026-06-07T06:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063513576929669164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063513576929669164",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "-- invLinearFacts 接收当前的 n，当前 n! 的逆元，返回所有阶乘逆元的列表\n-- 核心逻辑：下一个逆元 = 当前逆元 * n\ninvLinearFacts :: Integer -> Integer -> Integer -> [Integer]\ninvLinearFacts 0 _ _ = [1] -- 0! 的逆元是 1\ninvLinearFacts n currentInvP P = \n    let nextInv = (currentInvP * n) `mod` P\n    in currentInvP : invLinearFacts (n - 1) nextInv P\n这个玩意吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063508721804677261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int -- invLinearFacts 接收当前的 n，当前 n! 的逆元，返回所有阶乘逆元的列表\n-- 核心逻辑：下一个逆元 = 当前逆元 * n\ninvLinearFacts :: Integer -&gt; Integer -&gt; Integer -&gt; [Integer]\ninvLinearFacts 0 _ _ = [1] -- 0! 的逆元是 1\ninvLinearFacts n currentInvP P = \n    let nextInv = (currentInvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/似乎转双向/自杀未遂/前ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 880,
+          "like_count": 863,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxianact｜好朋友@aoi4uto｜會講國語🇹🇼普通话🇨🇳廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "maoxianact"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 526,
+          "like_count": 6411,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 3754
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}
