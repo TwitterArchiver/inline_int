@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2065662526533115948",
+    "created_at": "2026-06-13T05:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065662526533115948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unkmtx/status/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/unkmtx/status/2065383652029280374",
+          "start": 132,
+          "url": "https://t.co/kzl8tidrSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662526533115948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065383652029280374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想知道大家对称呼的接受程度\n筱是这样的\n称呼   自指 他指\n男的     🟨    🟨\n男娘     🟨    🟨\n药娘     🟩    🟩\n跨女     🟨    🟨\n女的     🟩    🟩\nmtf       🟩    🟩\n筱猫     🟩    🟩 https://t.co/kzl8tidrSe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2065662526533115948",
+        "created_at": "2026-06-13T05:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065662526533115948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unkmtx/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/unkmtx/status/2065383652029280374",
+              "start": 132,
+              "url": "https://t.co/kzl8tidrSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662526533115948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065383652029280374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想知道大家对称呼的接受程度\n筱是这样的\n称呼   自指 他指\n男的     🟨    🟨\n男娘     🟨    🟨\n药娘     🟩    🟩\n跨女     🟨    🟨\n女的     🟩    🟩\nmtf       🟩    🟩\n筱猫     🟩    🟩 https://t.co/kzl8tidrSe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2065383652029280374",
+        "created_at": "2026-06-12T10:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065383652029280374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/NL8526/status/2065368187936637160",
+              "start": 157,
+              "url": "https://t.co/hub4GqeuGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065383652029280374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2092,
+          "like_count": 20,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065368187936637160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "想知道大家对称呼的接受程度\n咱个人目前是这样\n称呼   自指 他指\n顺男     🟨    🟥\n男娘     🟥    🟥\ngay        🟥    🟥\namab     🟨     🟨\n药娘     🟩    🟩\n跨女     🟩    🟩\n顺女     🟨    🟩\nmtf        🟩    🟩 https://t.co/hub4GqeuGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 953,
+          "like_count": 1182,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.𝙐𝙣𝙠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 966,
+          "like_count": 1830,
+          "listed_count": 15,
+          "media_count": 47,
+          "tweet_count": 370
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

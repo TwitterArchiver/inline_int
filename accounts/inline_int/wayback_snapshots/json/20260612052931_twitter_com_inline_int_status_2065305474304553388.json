@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2065301655738851821",
+    "created_at": "2026-06-12T05:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065305474304553388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065305474304553388",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065303531339592110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 已经在父母和老师前炸柜了\n但同学还没有（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2065301655738851821",
+        "created_at": "2026-06-12T05:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065305474304553388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065305474304553388",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065303531339592110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 已经在父母和老师前炸柜了\n但同学还没有（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065301655738851821",
+        "created_at": "2026-06-12T05:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065303531339592110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065303531339592110",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065301655738851821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 那不就炸柜了嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 936,
+          "like_count": 1039,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 42,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 168
+        },
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

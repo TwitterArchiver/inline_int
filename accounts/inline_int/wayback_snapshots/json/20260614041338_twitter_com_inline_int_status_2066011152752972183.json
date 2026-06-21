@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2065711565077168579",
+    "created_at": "2026-06-14T04:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066011152752972183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066011152752972183",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065851821923696987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea ？！强强！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2065711565077168579",
+        "created_at": "2026-06-14T04:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066011152752972183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066011152752972183",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065851821923696987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea ？！强强！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2065711565077168579",
+        "created_at": "2026-06-13T17:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851821923696987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 35,
+              "expanded_url": "https://x.com/zhwevea/status/2013207603791221000?s=46",
+              "start": 12,
+              "url": "https://t.co/ZTxwKUX2bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851821923696987",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013207603791221000",
+            "type": "quoted"
+          },
+          {
+            "id": "2065711565077168579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int https://t.co/ZTxwKUX2bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 958,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡｜👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7585,
+          "following_count": 435,
+          "like_count": 33511,
+          "listed_count": 23,
+          "media_count": 2599,
+          "tweet_count": 20371
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

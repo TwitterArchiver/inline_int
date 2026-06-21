@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2066962255795634433",
+    "created_at": "2026-06-17T07:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067149378133848498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067149378133848498",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067022382980907257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa 🤔可惜我不想改这个开源项目的代码（，试试套个中间层"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2066962255795634433",
+        "created_at": "2026-06-17T07:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067149378133848498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067149378133848498",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067022382980907257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa 🤔可惜我不想改这个开源项目的代码（，试试套个中间层"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2066962255795634433",
+        "created_at": "2026-06-16T23:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067022382980907257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+              "display_url": "google.com",
+              "end": 193,
+              "expanded_url": "https://google.com",
+              "start": 170,
+              "status": 200,
+              "title": "Google",
+              "unwound_url": "https://www.google.com/",
+              "url": "https://t.co/ODEGvaAgqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067022382980907257",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066962255795634433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int npm install undici\n\n然后\n\nimport { fetch, ProxyAgent } from \"undici\";\n\nconst agent = new ProxyAgent(\"http://127.0.0.1:7890\");\n\nconst response = await fetch(\n  \"https://t.co/ODEGvaAgqB\",\n  {\n    dispatcher: agent\n  }\n);"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 982,
+          "like_count": 1379,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | TypeScript | Node.js | Developer | 先天跨 | 会伪音 | 喜欢整活搞抽象，说莫名其妙的话 | 唐毓文梦女 | 跨圈大周报，跨事早知道～ | 恋人@ogsa1687497 | ✨同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 429,
+          "like_count": 498,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

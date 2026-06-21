@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2066115247719563604",
+    "created_at": "2026-06-14T11:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066115247719563604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miokitsukawa/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/miokitsukawa/status/2065878122604658960",
+          "start": 141,
+          "url": "https://t.co/JWdWJmIWWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066115247719563604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065878122604658960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正式宣布：我选择脱人籍，重回猫娘籍。\n回望之前的物种焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同物种好好生活，祝我们都能用自己的方式生活 https://t.co/JWdWJmIWWA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2066115247719563604",
+        "created_at": "2026-06-14T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066115247719563604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miokitsukawa/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/miokitsukawa/status/2065878122604658960",
+              "start": 141,
+              "url": "https://t.co/JWdWJmIWWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066115247719563604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065878122604658960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱人籍，重回猫娘籍。\n回望之前的物种焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同物种好好生活，祝我们都能用自己的方式生活 https://t.co/JWdWJmIWWA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2065878122604658960",
+        "created_at": "2026-06-13T19:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065878122604658960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbbkamen/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/bbbkamen/status/2065852780770955324",
+              "start": 141,
+              "url": "https://t.co/0gEgC8NqQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065878122604658960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065852780770955324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱人籍，重回猫娘籍。\n回望之前的物种焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同物种好好生活，祝我们都能用自己的方式生活 https://t.co/0gEgC8NqQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 958,
+          "like_count": 1259,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | 程序开发 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️…我真的喜欢吗？？ | 喜欢整活搞抽象，弄一些意义不明的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 331,
+          "like_count": 312,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

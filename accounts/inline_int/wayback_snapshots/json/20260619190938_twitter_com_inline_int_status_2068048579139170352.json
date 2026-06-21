@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2068048579139170352",
+    "created_at": "2026-06-19T19:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068048579139170352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068048579139170352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我力竭了\n猎鹰打小蜜蜂就这么难等吗\n一直粘一直粘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2068048579139170352",
+        "created_at": "2026-06-19T19:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068048579139170352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068048579139170352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我力竭了\n猎鹰打小蜜蜂就这么难等吗\n一直粘一直粘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 993,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

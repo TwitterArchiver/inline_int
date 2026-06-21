@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2066773365482733950",
+    "created_at": "2026-06-16T09:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066810821229855146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065560327488479233",
+          "start": 0,
+          "username": "kaixinxinua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066810821229855146",
+    "in_reply_to_user_id": "2065560327488479233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066808462265172071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaixinxinua 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2066773365482733950",
+        "created_at": "2026-06-16T09:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066810821229855146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065560327488479233",
+              "start": 0,
+              "username": "kaixinxinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066810821229855146",
+        "in_reply_to_user_id": "2065560327488479233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066808462265172071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaixinxinua 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065560327488479233",
+        "conversation_id": "2066773365482733950",
+        "created_at": "2026-06-16T09:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066808462265172071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066808462265172071",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066773365482733950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 真假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 969,
+          "like_count": 1320,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T22:24:12.000Z",
+        "description": "一代目@kaixinua 求求巡回fo，互fo呜呜呜🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "kaixinua"
+              }
+            ]
+          }
+        },
+        "id": "2065560327488479233",
+        "name": "kaikaixin二代目🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065561431135735808/3mGSxJ3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "kaixinxinua",
+        "verified": false
+      }
+    ]
+  }
+}

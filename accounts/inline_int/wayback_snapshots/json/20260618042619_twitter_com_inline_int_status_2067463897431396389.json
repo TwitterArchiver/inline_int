@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2067244865008836765",
+    "created_at": "2026-06-18T04:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067463897431396389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067463897431396389",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067244865008836765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa Ubuntu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2067244865008836765",
+        "created_at": "2026-06-18T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067463897431396389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067463897431396389",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067244865008836765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa Ubuntu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2067244865008836765",
+        "created_at": "2026-06-17T13:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067244865008836765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067244865008836765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，你们推荐什么 Linux 发行版？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 986,
+          "like_count": 1403,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | Developer | TypeScript | Node.js | 先天跨 | 会伪音 | 喜欢整活搞抽象，说莫名其妙的话 | 唐毓文梦女 | 跨圈大周报，跨事早知道～ | 恋人@ogsa1687497 | ✨同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 453,
+          "like_count": 550,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

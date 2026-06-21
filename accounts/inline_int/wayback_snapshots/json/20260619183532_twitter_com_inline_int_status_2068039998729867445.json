@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2068000105303544028",
+    "created_at": "2026-06-19T18:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068039998729867445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062562367368835072",
+          "start": 0,
+          "username": "nianbaionly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068039998729867445",
+    "in_reply_to_user_id": "2062562367368835072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068011311049650180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianbaionly 不算混乱喵……主要是没什么东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2068000105303544028",
+        "created_at": "2026-06-19T18:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068039998729867445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062562367368835072",
+              "start": 0,
+              "username": "nianbaionly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068039998729867445",
+        "in_reply_to_user_id": "2062562367368835072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068011311049650180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianbaionly 不算混乱喵……主要是没什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062562367368835072",
+        "conversation_id": "2068000105303544028",
+        "created_at": "2026-06-19T16:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068011311049650180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068011311049650180",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068000105303544028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 993,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T15:50:13.000Z",
+        "description": "双允二号机，好玩喵\n@shuangyunonly\n但我知道我是我，我是双允",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "shuangyunonly"
+              }
+            ]
+          }
+        },
+        "id": "2062562367368835072",
+        "location": "从不存在的世界里",
+        "name": "廿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062563046351093760/DoUM_2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "nianbaionly",
+        "verified": false
+      }
+    ]
+  }
+}

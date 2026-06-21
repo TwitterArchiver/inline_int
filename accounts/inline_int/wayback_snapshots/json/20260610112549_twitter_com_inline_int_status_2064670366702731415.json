@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064670366702731415",
+    "created_at": "2026-06-10T11:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064670366702731415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sorcerer1311/s…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/sorcerer1311/status/2064348749787549731",
+          "start": 100,
+          "url": "https://t.co/ByV9HZJyG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064670366702731415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064348749787549731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：识字\n数学：AMC10 1%\n英语：哈佛大学公共论坛辩论赛冠军\n物理：CYPT二等奖\n化学：挂科\n地理：认不全地图\n政治：抄选择题\n生物：背不下来\n历史：野史\n\n似乎有点偏科 https://t.co/ByV9HZJyG6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064670366702731415",
+        "created_at": "2026-06-10T11:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064670366702731415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/sorcerer1311/status/2064348749787549731",
+              "start": 100,
+              "url": "https://t.co/ByV9HZJyG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064670366702731415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064348749787549731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：识字\n数学：AMC10 1%\n英语：哈佛大学公共论坛辩论赛冠军\n物理：CYPT二等奖\n化学：挂科\n地理：认不全地图\n政治：抄选择题\n生物：背不下来\n历史：野史\n\n似乎有点偏科 https://t.co/ByV9HZJyG6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064348749787549731",
+        "created_at": "2026-06-09T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064348749787549731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiayigongheqiu…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/xiayigongheqiu/status/2064135087583838595",
+              "start": 96,
+              "url": "https://t.co/zjU6molxdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064348749787549731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 714,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064135087583838595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：识字\n数学：完全不会\n英语：和没学过一样\n物理：还算可以？\n化学：学过点竞赛\n地理：学考A\n政治：拥护咱妈\n生物：学过生竞，拿自己做实验\n历史：读过一点私人医生\n…… https://t.co/zjU6molxdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 925,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 790,
+          "like_count": 1264,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

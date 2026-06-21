@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2067492394707091595",
+    "created_at": "2026-06-18T15:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067629155181597082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067629155181597082",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067549523388608817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 不过我去外国玩的更多喵……日本和美国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2067492394707091595",
+        "created_at": "2026-06-18T15:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067629155181597082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629155181597082",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067549523388608817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 不过我去外国玩的更多喵……日本和美国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2067492394707091595",
+        "created_at": "2026-06-18T10:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067549523388608817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067549523388608817",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067492394707091595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 看了这么多还是沪爷有实力啊🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 991,
+          "like_count": 1438,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "🍬2025.10吃糖🍬\n🍥2026.5开启hrt🍥\n🌈持证含糖MtF🌈\n🎂97年大龄跨🎂\n✨愿自己早日变成女生✨\n❤希望有男人真心的爱我陪伴我❤",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 287,
+          "like_count": 1778,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 1149
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

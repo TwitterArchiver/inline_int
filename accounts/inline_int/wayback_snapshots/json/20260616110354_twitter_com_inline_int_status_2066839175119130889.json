@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2066839175119130889",
+    "created_at": "2026-06-16T11:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066839175119130889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainengine2024…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/rainengine2024/status/2066821589463896095",
+          "start": 21,
+          "url": "https://t.co/Wt9JDpvqNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066839175119130889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066821589463896095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好 我是新来的mtx 请多指教qwq https://t.co/Wt9JDpvqNi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2066839175119130889",
+        "created_at": "2026-06-16T11:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066839175119130889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/rainengine2024/status/2066821589463896095",
+              "start": 21,
+              "url": "https://t.co/Wt9JDpvqNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066839175119130889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066821589463896095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好 我是新来的mtx 请多指教qwq https://t.co/Wt9JDpvqNi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2066821589463896095",
+        "created_at": "2026-06-16T09:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066821589463896095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quasarne/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/quasarne/status/2066542326915432793",
+              "start": 21,
+              "url": "https://t.co/af2e1GoEnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821589463896095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066542326915432793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好 我是新来的mtx 请多指教qwq https://t.co/af2e1GoEnv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 971,
+          "like_count": 1325,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10517,
+          "following_count": 973,
+          "like_count": 94609,
+          "listed_count": 25,
+          "media_count": 1922,
+          "tweet_count": 13244
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}
