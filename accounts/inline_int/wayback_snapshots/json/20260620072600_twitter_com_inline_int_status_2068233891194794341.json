@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2068233891194794341",
+    "created_at": "2026-06-20T07:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068233891194794341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 73,
+          "tag": "戒网瘾学校"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "扭转机构"
+        },
+        {
+          "end": 92,
+          "start": 86,
+          "tag": "精神病医院"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050269321029435392",
+          "start": 3,
+          "username": "nk1415926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dhelder",
+          "end": 139,
+          "expanded_url": "https://x.com/dhelder",
+          "start": 125,
+          "status": 404,
+          "unwound_url": "https://twitter.com/dhelder",
+          "url": "https://t.co/d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068233891194794341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067929824765837562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nk1415926: 安全守护系统全部主体功能于今天正式竣工。\n对于触发求救的用户，系统会自动将他们预设的求救信送达紧急联系人。\n\n受到 #戒网瘾学校 #扭转机构 #精神病医院 的威胁？或是需要一个新邮箱？还是想在匿名论坛社区交流研讨？我在 https://t.co/d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067927081179357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLAuVcbIAAIr6C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2068233891194794341",
+        "created_at": "2026-06-20T07:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068233891194794341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "戒网瘾学校"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "扭转机构"
+            },
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "精神病医院"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050269321029435392",
+              "start": 3,
+              "username": "nk1415926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dhelder",
+              "end": 139,
+              "expanded_url": "https://x.com/dhelder",
+              "start": 125,
+              "status": 404,
+              "unwound_url": "https://twitter.com/dhelder",
+              "url": "https://t.co/d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068233891194794341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067929824765837562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nk1415926: 安全守护系统全部主体功能于今天正式竣工。\n对于触发求救的用户，系统会自动将他们预设的求救信送达紧急联系人。\n\n受到 #戒网瘾学校 #扭转机构 #精神病医院 的威胁？或是需要一个新邮箱？还是想在匿名论坛社区交流研讨？我在 https://t.co/d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067927081179357184"
+          ]
+        },
+        "author_id": "2050269321029435392",
+        "conversation_id": "2067929824765837562",
+        "created_at": "2026-06-19T11:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067929824765837562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "戒网瘾学校"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "扭转机构"
+            },
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "精神病医院"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "smcs.dpdns.org",
+              "end": 133,
+              "expanded_url": "http://smcs.dpdns.org",
+              "start": 110,
+              "status": 200,
+              "title": "登录 - xxxx计算机系统",
+              "unwound_url": "https://smcs.dpdns.org/login",
+              "url": "https://t.co/dLJ88ZTnCH"
+            },
+            {
+              "display_url": "pic.x.com/om8FVbYq4U",
+              "end": 185,
+              "expanded_url": "https://x.com/nk1415926/status/2067929824765837562/photo/1",
+              "media_key": "3_2067927081179357184",
+              "start": 162,
+              "url": "https://t.co/om8FVbYq4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067929824765837562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "安全守护系统全部主体功能于今天正式竣工。\n对于触发求救的用户，系统会自动将他们预设的求救信送达紧急联系人。\n\n受到 #戒网瘾学校 #扭转机构 #精神病医院 的威胁？或是需要一个新邮箱？还是想在匿名论坛社区交流研讨？我在 https://t.co/dLJ88ZTnCH 等你注册。\n\n公共账户账密、git repo见我主页。 https://t.co/om8FVbYq4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 996,
+          "like_count": 1494,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T17:41:29.000Z",
+        "description": "黑夜是白昼的序曲，沉默是惊雷的前奏。\n\n-----\n\n反对暴力网戒与跨性别扭转，我们在行动。\n\n安全守护系统项目 on git https://t.co/7KgS8OFDn5\n\nURL https://t.co/KlpAQICLUy\n  ID moo5jdrdsSCQME\n  PWD nk1415926",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/nuosky/smcs",
+                "end": 87,
+                "expanded_url": "http://github.com/nuosky/smcs",
+                "start": 64,
+                "url": "https://t.co/7KgS8OFDn5"
+              },
+              {
+                "display_url": "smcs.dpdns.org",
+                "end": 116,
+                "expanded_url": "http://smcs.dpdns.org",
+                "start": 93,
+                "url": "https://t.co/KlpAQICLUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smcs.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://smcs.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/AQfLiX47Hs"
+              }
+            ]
+          }
+        },
+        "id": "2050269321029435392",
+        "location": "邮箱 admin@email.smcs.dpdns.org",
+        "name": "MTF 糯空 git@nuosky",
+        "pinned_tweet_id": "2067929824765837562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050274836107149312/iPZZXU1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 39,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/AQfLiX47Hs",
+        "username": "nk1415926",
+        "verified": false
+      }
+    ]
+  }
+}

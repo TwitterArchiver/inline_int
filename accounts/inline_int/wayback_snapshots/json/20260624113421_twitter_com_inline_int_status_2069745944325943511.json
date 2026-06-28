@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2069452627721568610",
+    "created_at": "2026-06-24T11:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069745944325943511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1316103441182158849",
+          "start": 0,
+          "username": "xsf727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069745944325943511",
+    "in_reply_to_user_id": "1316103441182158849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069484331584868845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsf727 佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2069452627721568610",
+        "created_at": "2026-06-24T11:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069745944325943511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1316103441182158849",
+              "start": 0,
+              "username": "xsf727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069745944325943511",
+        "in_reply_to_user_id": "1316103441182158849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069484331584868845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsf727 佬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316103441182158849",
+        "conversation_id": "2069452627721568610",
+        "created_at": "2026-06-23T18:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069484331584868845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069484331584868845",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069452627721568610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 10.我自己开始打cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 1037,
+          "like_count": 1697,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-13T19:48:17.000Z",
+        "description": "永远消失",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/DF2murasame",
+                "end": 23,
+                "expanded_url": "https://t.me/DF2murasame",
+                "start": 0,
+                "url": "https://t.co/fLuKZGrnL5"
+              }
+            ]
+          }
+        },
+        "id": "1316103441182158849",
+        "location": "地球",
+        "name": "断风",
+        "pinned_tweet_id": "2056771746423033924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023720233291444232/Egmdbr9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 498,
+          "like_count": 1013,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/fLuKZGrnL5",
+        "username": "xsf727",
+        "verified": false
+      }
+    ]
+  }
+}

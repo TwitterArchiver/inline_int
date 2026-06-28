@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068588155805077504"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2068588320225927608",
+    "created_at": "2026-06-21T06:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068588320225927608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRnMFNQiab",
+          "end": 32,
+          "expanded_url": "https://x.com/inline_int/status/2068588320225927608/video/1",
+          "media_key": "13_2068588155805077504",
+          "start": 9,
+          "url": "https://t.co/GRnMFNQiab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068588320225927608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么是真正的绝望 https://t.co/GRnMFNQiab"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42835,
+        "height": 1080,
+        "media_key": "13_2068588155805077504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068588155805077504/img/seiTBpWex18ultKp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588155805077504/vid/avc1/514x360/h8hBLVkaI4sdV8t3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068588155805077504/pl/0kiqhFt5xFMPr4IF.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588155805077504/vid/avc1/386x270/J41jF7cDSp1wtWQ6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588155805077504/vid/avc1/1546x1080/rK6oraU7kERhlUHT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588155805077504/vid/avc1/1030x720/fT5cM63WGcpNT80x.mp4"
+          }
+        ],
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068588155805077504"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2068588320225927608",
+        "created_at": "2026-06-21T06:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068588320225927608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRnMFNQiab",
+              "end": 32,
+              "expanded_url": "https://x.com/inline_int/status/2068588320225927608/video/1",
+              "media_key": "13_2068588155805077504",
+              "start": 9,
+              "url": "https://t.co/GRnMFNQiab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068588320225927608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是真正的绝望 https://t.co/GRnMFNQiab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 1000,
+          "like_count": 1513,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

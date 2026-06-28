@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2069450584243961974",
+    "created_at": "2026-06-23T16:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069450584243961974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/texiuszhichuan…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/texiuszhichuan/status/2069447398141948143",
+          "start": 6,
+          "url": "https://t.co/9cF2i5T8ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069450584243961974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069447398141948143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要来😋 https://t.co/9cF2i5T8ku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2069450584243961974",
+        "created_at": "2026-06-23T16:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069450584243961974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/texiuszhichuan…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/texiuszhichuan/status/2069447398141948143",
+              "start": 6,
+              "url": "https://t.co/9cF2i5T8ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069450584243961974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069447398141948143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要来😋 https://t.co/9cF2i5T8ku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2069447398141948143",
+        "created_at": "2026-06-23T15:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069447398141948143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ttttk567/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ttttk567/status/2069417707997741066",
+              "start": 7,
+              "url": "https://t.co/dzFVbh4Csn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069447398141948143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069417707997741066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来试试吧 https://t.co/dzFVbh4Csn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 1034,
+          "like_count": 1664,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影，王者，phigros，MC，泰拉瑞亚，空洞骑士等等一系列steam游戏，想以火影为主，喜欢追番但看的比较少，全天在线，网瘾大，互fo聊天，可以交换联系方式（QQ）",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2068756702917472556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 257,
+          "like_count": 8774,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}
