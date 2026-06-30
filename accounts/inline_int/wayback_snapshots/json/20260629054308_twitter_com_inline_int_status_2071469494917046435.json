@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071469489099526144"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2071469494917046435",
+    "created_at": "2026-06-29T05:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071469494917046435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBeDFAgTBZ",
+          "end": 80,
+          "expanded_url": "https://x.com/inline_int/status/2071469494917046435/photo/1",
+          "media_key": "3_2071469489099526144",
+          "start": 57,
+          "url": "https://t.co/mBeDFAgTBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071469494917046435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/mBeDFAgTBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2071469489099526144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9WhnTWUAA90Xc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071469489099526144"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2071469494917046435",
+        "created_at": "2026-06-29T05:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071469494917046435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBeDFAgTBZ",
+              "end": 80,
+              "expanded_url": "https://x.com/inline_int/status/2071469494917046435/photo/1",
+              "media_key": "3_2071469489099526144",
+              "start": 57,
+              "url": "https://t.co/mBeDFAgTBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071469494917046435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/mBeDFAgTBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 1067,
+          "like_count": 1918,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}
