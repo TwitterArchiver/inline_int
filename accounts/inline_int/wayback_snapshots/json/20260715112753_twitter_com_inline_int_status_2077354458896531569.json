@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2077132688482537752",
+    "created_at": "2026-07-15T11:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077354458896531569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878582034588962816",
+          "start": 0,
+          "username": "sese_x1anyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077354458896531569",
+    "in_reply_to_user_id": "1878582034588962816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077141258473029748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sese_x1anyu 来咱小群喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2077132688482537752",
+        "created_at": "2026-07-15T11:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077354458896531569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878582034588962816",
+              "start": 0,
+              "username": "sese_x1anyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077354458896531569",
+        "in_reply_to_user_id": "1878582034588962816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077141258473029748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sese_x1anyu 来咱小群喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878582034588962816",
+        "conversation_id": "2077132688482537752",
+        "created_at": "2026-07-14T21:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T22:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077141258473029748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077141258473029748",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077132688482537752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 强强！\n佬带带窝喵窝给你发刀喵（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 1089,
+          "like_count": 2052,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-12T23:17:27.000Z",
+        "description": "MtF. 已炸柜. \n了未结之事. 还未完之愿. \n欢迎互fo及聊天喵.",
+        "id": "1878582034588962816",
+        "location": "咸鱼窝",
+        "name": "緲漁_M1aoYu🍥",
+        "pinned_tweet_id": "2051613752282304672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047834674920128514/gfavpvko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 740,
+          "like_count": 7627,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "sese_x1anyu",
+        "verified": false
+      }
+    ]
+  }
+}
