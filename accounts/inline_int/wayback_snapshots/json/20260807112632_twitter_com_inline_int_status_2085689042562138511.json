@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2085607039519318088",
+    "created_at": "2026-08-07T11:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085689042562138511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1390230899388678146",
+          "start": 0,
+          "username": "jiajiababys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085689042562138511",
+    "in_reply_to_user_id": "1390230899388678146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085607039519318088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajiababys 这西瓜是报恩的来了，感觉好好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19266,
+        "height": 1280,
+        "media_key": "13_2085606523032711168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085606523032711168/img/0kzn9hkN_9BAM1s7.jpg",
+        "public_metrics": {
+          "view_count": 870
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085606523032711168/vid/avc1/320x568/4Sao9lhpGytpMRay.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085606523032711168/vid/avc1/480x852/-OBul-FMbfqkPPou.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085606523032711168/vid/avc1/720x1280/qfl5c-Q9kXXj4sH1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085606523032711168/pl/95Vk1Ek0KmmQs2_B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2085607039519318088",
+        "created_at": "2026-08-07T11:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085689042562138511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1390230899388678146",
+              "start": 0,
+              "username": "jiajiababys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085689042562138511",
+        "in_reply_to_user_id": "1390230899388678146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085607039519318088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajiababys 这西瓜是报恩的来了，感觉好好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085606523032711168"
+          ]
+        },
+        "author_id": "1390230899388678146",
+        "conversation_id": "2085607039519318088",
+        "created_at": "2026-08-07T06:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085607039519318088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npmPXVTiks",
+              "end": 36,
+              "expanded_url": "https://x.com/jiajiababys/status/2085607039519318088/video/1",
+              "media_key": "13_2085606523032711168",
+              "start": 13,
+              "url": "https://t.co/npmPXVTiks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085607039519318088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1850,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失踪一天了\n\n带着瓜回来 https://t.co/npmPXVTiks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1252,
+          "like_count": 2422,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-06T09:04:17.000Z",
+        "description": "各圈小韭菜，全天冲浪\n情绪价值拉满，快从天台下来",
+        "id": "1390230899388678146",
+        "name": "故事的小黄花",
+        "pinned_tweet_id": "2084457871513895071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067676852794306560/0Rpcqlne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 3530,
+          "like_count": 16291,
+          "listed_count": 7,
+          "media_count": 456,
+          "tweet_count": 10729
+        },
+        "url": "",
+        "username": "jiajiababys",
+        "verified": true
+      }
+    ]
+  }
+}

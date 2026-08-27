@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2090034585061200302",
+    "created_at": "2026-08-19T11:14:10.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090034585061200302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090034585061200302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你好，因大数据查到您七夕没有女朋友，为了帮助到您，于今日下午17:00前到当地人民广场分配一名武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜伽、摄影，每天使用小红书和豆瓣生活组不小于8小时，是傅首尔和杨笠的忠实粉丝，正全力在家里备战考公，彩礼要38.8w的好女孩"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，因大数据查到您七夕没有女朋友，为了帮助到您，于今日下午17:00前到当地人民广场分配一名武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2090034585061200302",
+        "created_at": "2026-08-19T11:14:10.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090034585061200302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090034585061200302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你好，因大数据查到您七夕没有女朋友，为了帮助到您，于今日下午17:00前到当地人民广场分配一名武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜伽、摄影，每天使用小红书和豆瓣生活组不小于8小时，是傅首尔和杨笠的忠实粉丝，正全力在家里备战考公，彩礼要38.8w的好女孩"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，因大数据查到您七夕没有女朋友，为了帮助到您，于今日下午17:00前到当地人民广场分配一名武汉大学法学院毕业的江西本地女孩，身材微胖，长相自认七分，家里有两个小10岁的弟弟，性格慢热，有几个游手好闲的男闺蜜，还有几个当老师的女闺蜜，喜欢猫，喜欢仪式感，缺乏安全感，爱好旅游、烘焙、瑜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "你好，我是int｜发发日常和梗图｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090034585061200302",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 644,
+          "like_count": 2904,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

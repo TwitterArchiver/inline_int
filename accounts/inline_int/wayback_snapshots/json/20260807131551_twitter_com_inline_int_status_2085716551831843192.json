@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2085714816128192514",
+    "created_at": "2026-08-07T13:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085716551831843192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788279577531523075",
+          "start": 0,
+          "username": "fushishanxia88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085716551831843192",
+    "in_reply_to_user_id": "1788279577531523075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085716274827723064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushishanxia88 是这样的，中医几乎没有什么发展，反观西医就很快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2085714816128192514",
+        "created_at": "2026-08-07T13:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085716551831843192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788279577531523075",
+              "start": 0,
+              "username": "fushishanxia88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085716551831843192",
+        "in_reply_to_user_id": "1788279577531523075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085716274827723064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushishanxia88 是这样的，中医几乎没有什么发展，反观西医就很快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788279577531523075",
+        "conversation_id": "2085714816128192514",
+        "created_at": "2026-08-07T13:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085716274827723064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085716274827723064",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085714816128192514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 西医在进化，中医老祖宗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1253,
+          "like_count": 2424,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-08T18:47:50.000Z",
+        "description": "06mtf，infj,hrt2025.5.5，小证26.5.20大证26.7.6 跨同？缅a金融历练（确信）",
+        "id": "1788279577531523075",
+        "name": "苏苏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072697295674732544/6Z2gBsbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 196,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "fushishanxia88",
+        "verified": false
+      }
+    ]
+  }
+}

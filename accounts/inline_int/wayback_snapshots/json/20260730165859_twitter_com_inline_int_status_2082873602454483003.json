@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2082873602454483003",
+    "created_at": "2026-07-30T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082873602454483003"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082873602454483003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打算建一个OI学习的游戏\n从基础内容开始一步步学习算法数据结构等，类似于图灵完备\n目前做成网页形式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2082873602454483003",
+        "created_at": "2026-07-30T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082873602454483003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082873602454483003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算建一个OI学习的游戏\n从基础内容开始一步步学习算法数据结构等，类似于图灵完备\n目前做成网页形式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding 程序开发｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1103,
+          "like_count": 2229,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

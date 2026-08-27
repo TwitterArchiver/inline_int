@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2083579242319663110",
+    "created_at": "2026-08-01T16:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083593981087129991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749597659902713856",
+          "start": 0,
+          "username": "bytelee_trade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083593981087129991",
+    "in_reply_to_user_id": "1749597659902713856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083585577145045054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bytelee_trade 已回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2083579242319663110",
+        "created_at": "2026-08-01T16:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083593981087129991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749597659902713856",
+              "start": 0,
+              "username": "bytelee_trade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083593981087129991",
+        "in_reply_to_user_id": "1749597659902713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083585577145045054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bytelee_trade 已回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749597659902713856",
+        "conversation_id": "2083579242319663110",
+        "created_at": "2026-08-01T16:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083585577145045054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083585577145045054",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083579242319663110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 已关注～互关一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜#蓝V互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "蓝V互fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1118,
+          "like_count": 2280,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T00:59:28.000Z",
+        "description": "AI frontier, tools I test, and where I put capital — direction, logic & risk, not calls. Signal over noise. Personal view, not financial advice.",
+        "id": "1749597659902713856",
+        "name": "ByteLee · AI Investing",
+        "pinned_tweet_id": "2082958640252899351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067425510221889536/koDGQGTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 4700,
+          "like_count": 700,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "bytelee_trade",
+        "verified": true
+      }
+    ]
+  }
+}

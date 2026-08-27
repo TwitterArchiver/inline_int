@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087072865929871360"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2087075723177861193",
+    "created_at": "2026-08-11T07:16:43.000Z",
+    "display_text_range": [
+      0,
+      174
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087075723177861193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRZzQG68KF",
+          "end": 198,
+          "expanded_url": "https://x.com/inline_int/status/2087075723177861193/photo/1",
+          "media_key": "3_2087072865929871360",
+          "start": 175,
+          "url": "https://t.co/XRZzQG68KF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087075723177861193",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087072865929871360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "www-cdn.anthropic.com/564f962e606438…",
+            "end": 518,
+            "expanded_url": "https://www-cdn.anthropic.com/564f962e60643842f5fcb4a17c9dbc8f608f1c37.pdf",
+            "start": 495,
+            "url": "https://t.co/91TvBSgGrP"
+          }
+        ]
+      },
+      "text": "数学界迎来突破！\n\n就在昨天，Claude证明至少67.25%的黎曼 ζ 函数非平凡零点位于临界线 Re(s) = 1/2 上。结果经 Conrey 与 Goldston 审阅并完成 Lean 4 形式化，这直接把纪录推进了 25.5 个百分点。\n\n起因是一名员工给 Claude 布置了\"认真尝试黎曼猜想\"的任务。Claude 最初生成了 650 个想法全部失败，在第 651 个想法上协调 60 个子代理运行一天半，执行 2400 条 shell 命令、编写数百个 Python 脚本、对已知 Zeta 零点做了数千次数值检验并让子代理互相审稿；随后下载 54 篇 arXiv 论文核实结果未被他人抢先，并从头独立重证。整个探索消耗 3100 万输出 token。Anthropic 的数学家 Levent Alpöge 与 Ralph Furman 随后接手验证。\n\n论文把新数学思想的发现者直接写成了一个大型语言模型，它很可能会成为 AI 首次以主要数学作者身份取得世界级基础数学突破的标志性事件。从今往后，vibe mathing 很可能会大力推动前沿数学发展。\n\n论文链接如下\nhttps://t.co/91TvBSgGrP"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "数学界迎来突破！\n\n就在昨天，Claude证明至少67.25%的黎曼 ζ 函数非平凡零点位于临界线 Re(s) = 1/2 上。结果经 Conrey 与 Goldston 审阅并完成 Lean 4 形式化，这直接把纪录推进了 25.5 个百分点。\n\n起因是一名员工给 Claude 布置了\"认真尝试黎曼猜想\"的任务。Claude 最初生成了 650 https://t.co/XRZzQG68KF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2087072865929871360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbFtrobQAAlEoM.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087072865929871360"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2087075723177861193",
+        "created_at": "2026-08-11T07:16:43.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087075723177861193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRZzQG68KF",
+              "end": 198,
+              "expanded_url": "https://x.com/inline_int/status/2087075723177861193/photo/1",
+              "media_key": "3_2087072865929871360",
+              "start": 175,
+              "url": "https://t.co/XRZzQG68KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087075723177861193",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087072865929871360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "www-cdn.anthropic.com/564f962e606438…",
+                "end": 518,
+                "expanded_url": "https://www-cdn.anthropic.com/564f962e60643842f5fcb4a17c9dbc8f608f1c37.pdf",
+                "start": 495,
+                "url": "https://t.co/91TvBSgGrP"
+              }
+            ]
+          },
+          "text": "数学界迎来突破！\n\n就在昨天，Claude证明至少67.25%的黎曼 ζ 函数非平凡零点位于临界线 Re(s) = 1/2 上。结果经 Conrey 与 Goldston 审阅并完成 Lean 4 形式化，这直接把纪录推进了 25.5 个百分点。\n\n起因是一名员工给 Claude 布置了\"认真尝试黎曼猜想\"的任务。Claude 最初生成了 650 个想法全部失败，在第 651 个想法上协调 60 个子代理运行一天半，执行 2400 条 shell 命令、编写数百个 Python 脚本、对已知 Zeta 零点做了数千次数值检验并让子代理互相审稿；随后下载 54 篇 arXiv 论文核实结果未被他人抢先，并从头独立重证。整个探索消耗 3100 万输出 token。Anthropic 的数学家 Levent Alpöge 与 Ralph Furman 随后接手验证。\n\n论文把新数学思想的发现者直接写成了一个大型语言模型，它很可能会成为 AI 首次以主要数学作者身份取得世界级基础数学突破的标志性事件。从今往后，vibe mathing 很可能会大力推动前沿数学发展。\n\n论文链接如下\nhttps://t.co/91TvBSgGrP"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数学界迎来突破！\n\n就在昨天，Claude证明至少67.25%的黎曼 ζ 函数非平凡零点位于临界线 Re(s) = 1/2 上。结果经 Conrey 与 Goldston 审阅并完成 Lean 4 形式化，这直接把纪录推进了 25.5 个百分点。\n\n起因是一名员工给 Claude 布置了\"认真尝试黎曼猜想\"的任务。Claude 最初生成了 650 https://t.co/XRZzQG68KF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087075723177861193",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1270,
+          "like_count": 2602,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

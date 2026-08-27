@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2085714816128192514",
+    "created_at": "2026-08-07T13:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085714816128192514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085714816128192514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "现在还有多少人信中医呢？\n\n曾经我小时候感冒都是吃的中药，原因是家里人怕西药有有害成分。中药在我眼中没有任何疗效，治疗时间很长，完全可能是自愈，因而我从来就对重要不抱有好感。\n\n我个人觉得，中医理论是完全错误的，其强调的阴阳五行之类，全部没有证据能说明其正确性。中医理论利用循环论证使得难以在它自己的框架内证伪这个体系。并且中医对于不符合其理论的情况，只会质疑说是“体质特殊”等，质疑个体而不是理论，这本质上是一种诡辩。\n\n从客观上看，中药能过双盲测试的概率远小于西药。拿速效救心丸做例，至今没有实验证明它能缓解急性的心脏病，本质上和安慰剂没有区别。但是在这种关于性命分秒必争的场合，如果患者服用的是硝酸甘油而不是速效救心丸，存活概率可以大大提升，中药挤占了其他更可靠的药被用作治疗的可能性。\n\n当然这不代表中医没有可取性。中医更多是经验性的，其背后的理论虽然错误，但经验可以被科学手段研究。青蒿素的发现就是一个例子，通过古籍中的记载启发研究，用科学手段分析中药成分，才能诞生正确的知识。因而完全可以抛弃中医的理论，只取其经验，这才是中医该发展的道路。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在还有多少人信中医呢？\n\n曾经我小时候感冒都是吃的中药，原因是家里人怕西药有有害成分。中药在我眼中没有任何疗效，治疗时间很长，完全可能是自愈，因而我从来就对重要不抱有好感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2085714816128192514",
+        "created_at": "2026-08-07T13:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085714816128192514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085714816128192514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在还有多少人信中医呢？\n\n曾经我小时候感冒都是吃的中药，原因是家里人怕西药有有害成分。中药在我眼中没有任何疗效，治疗时间很长，完全可能是自愈，因而我从来就对重要不抱有好感。\n\n我个人觉得，中医理论是完全错误的，其强调的阴阳五行之类，全部没有证据能说明其正确性。中医理论利用循环论证使得难以在它自己的框架内证伪这个体系。并且中医对于不符合其理论的情况，只会质疑说是“体质特殊”等，质疑个体而不是理论，这本质上是一种诡辩。\n\n从客观上看，中药能过双盲测试的概率远小于西药。拿速效救心丸做例，至今没有实验证明它能缓解急性的心脏病，本质上和安慰剂没有区别。但是在这种关于性命分秒必争的场合，如果患者服用的是硝酸甘油而不是速效救心丸，存活概率可以大大提升，中药挤占了其他更可靠的药被用作治疗的可能性。\n\n当然这不代表中医没有可取性。中医更多是经验性的，其背后的理论虽然错误，但经验可以被科学手段研究。青蒿素的发现就是一个例子，通过古籍中的记载启发研究，用科学手段分析中药成分，才能诞生正确的知识。因而完全可以抛弃中医的理论，只取其经验，这才是中医该发展的道路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有多少人信中医呢？\n\n曾经我小时候感冒都是吃的中药，原因是家里人怕西药有有害成分。中药在我眼中没有任何疗效，治疗时间很长，完全可能是自愈，因而我从来就对重要不抱有好感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1253,
+          "like_count": 2422,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

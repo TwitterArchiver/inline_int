@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2083507258646794310",
+    "created_at": "2026-08-01T10:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083507258646794310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083507258646794310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地铁上遇到小偷了翻我包被我感知到了，下地铁发现包拉链被打开了，好在包里啥都没有就一瓶水，懒得管他了，真没素质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2083507258646794310",
+        "created_at": "2026-08-01T10:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083507258646794310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083507258646794310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地铁上遇到小偷了翻我包被我感知到了，下地铁发现包拉链被打开了，好在包里啥都没有就一瓶水，懒得管他了，真没素质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding 程序开发｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1106,
+          "like_count": 2269,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

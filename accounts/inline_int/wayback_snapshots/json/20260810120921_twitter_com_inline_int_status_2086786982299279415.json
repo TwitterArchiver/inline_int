@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2086780773148037390",
+    "created_at": "2026-08-10T12:09:21.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086786982299279415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086786982299279415",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086780773148037390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 好看诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2086780761391411200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW8C9basAAZW2X.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2086780773148037390",
+        "created_at": "2026-08-10T12:09:21.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086786982299279415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086786982299279415",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086780773148037390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 好看诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086780761391411200"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "conversation_id": "2086780773148037390",
+        "created_at": "2026-08-10T11:44:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086780773148037390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnyICvcOC6",
+              "end": 39,
+              "expanded_url": "https://x.com/Kazama_Nagi_/status/2086780773148037390/photo/1",
+              "media_key": "3_2086780761391411200",
+              "start": 16,
+              "url": "https://t.co/vnyICvcOC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086780773148037390",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086780761391411200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nagi最近在搞自己个人网站呢 https://t.co/vnyICvcOC6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2086786982299279415",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1268,
+          "like_count": 2561,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🍥2026/08/02 Sun\n🏫高中生（准确来讲应该是准高一，还没开学）\n❌无任何政治立场\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n5HBg"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "Canada🇨🇦",
+        "most_recent_tweet_id": "2086780773148037390",
+        "name": "Kazama_Nagi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085044390649860161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1785038533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 774,
+          "like_count": 1193,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/evOh4n5HBg",
+        "username": "Kazama_Nagi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

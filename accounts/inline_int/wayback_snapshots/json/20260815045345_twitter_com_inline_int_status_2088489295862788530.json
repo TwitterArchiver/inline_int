@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2088251696036348004",
+    "created_at": "2026-08-15T04:53:45.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088489295862788530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696807787924504577",
+          "start": 0,
+          "username": "havedoneyet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088489295862788530",
+    "in_reply_to_user_id": "1696807787924504577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088251696036348004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@havedoneyet 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2088251696036348004",
+        "created_at": "2026-08-15T04:53:45.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088489295862788530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696807787924504577",
+              "start": 0,
+              "username": "havedoneyet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088489295862788530",
+        "in_reply_to_user_id": "1696807787924504577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088251696036348004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@havedoneyet 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696807787924504577",
+        "conversation_id": "2088251696036348004",
+        "created_at": "2026-08-14T13:09:36.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088251696036348004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088251696036348004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1399,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出柜成功了，变成家长党了，不过我还是高考时候不能吃糖，少吃点就好了喵，还知道一个事情，我小时候是自闭症诶，现在居然好了喵呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑｜坐标上海\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088489295862788530",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088277852286517248/GsnaehDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1284,
+          "like_count": 2770,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-30T08:51:47.000Z",
+        "description": "无证mtx喵🏳️‍⚧️（买糖未到货）\n泛性恋（不卡颜值喵嘿嘿…）\n有事联系\n2008.07.16\n厌恶鉴证的人来我这里鉴证\n181cm/90kg（大只喵）\n不od不抽烟（尊重态度不会厌恶）\n减肥ing欢迎互fo\n轻中度失聪\n酗酒，想学习调酒技术\n欢迎友善的人找我互fo喵嘿嘿…",
+        "id": "1696807787924504577",
+        "is_identity_verified": false,
+        "location": "软乎乎香香软软小猫猫窝窝",
+        "most_recent_tweet_id": "2088254236106842506",
+        "name": "卡西诺喵喵（Kash1n0）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2087562982255657269",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085392661972946945/g0sWEnqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 248,
+          "like_count": 94,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "havedoneyet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

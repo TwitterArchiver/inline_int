@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2082480849904091435",
+    "created_at": "2026-07-29T14:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082480849904091435"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082480849904091435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我放弃了开发屏幕共享应用。\n主要原因在于实在无法找到便宜又稳定方便的连接手段，Tailnet太复杂，ipv6也复杂且有些地方未普及，内网穿透带宽低价格贵\n中国太缺ipv4了。有个ipv4我最近的一切开发都能好很多。\n目前已经实现了画面捕捉和串流，本地测试通过，Tailnet应该可以实现连接但是会丢包。\n项目代码如下\nintqwq/OpenSS: This program does not guarantee successful execution, it is in dev."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我放弃了开发屏幕共享应用。\n主要原因在于实在无法找到便宜又稳定方便的连接手段，Tailnet太复杂，ipv6也复杂且有些地方未普及，内网穿透带宽低价格贵\n中国太缺ipv4了。有个ipv4我最近的一切开发都能好很多。\n目前已经实现了画面捕捉和串流，本地测试通过，Tailnet应该可以实现连接但是会丢包。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2082480849904091435",
+        "created_at": "2026-07-29T14:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082480849904091435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082480849904091435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我放弃了开发屏幕共享应用。\n主要原因在于实在无法找到便宜又稳定方便的连接手段，Tailnet太复杂，ipv6也复杂且有些地方未普及，内网穿透带宽低价格贵\n中国太缺ipv4了。有个ipv4我最近的一切开发都能好很多。\n目前已经实现了画面捕捉和串流，本地测试通过，Tailnet应该可以实现连接但是会丢包。\n项目代码如下\nintqwq/OpenSS: This program does not guarantee successful execution, it is in dev."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我放弃了开发屏幕共享应用。\n主要原因在于实在无法找到便宜又稳定方便的连接手段，Tailnet太复杂，ipv6也复杂且有些地方未普及，内网穿透带宽低价格贵\n中国太缺ipv4了。有个ipv4我最近的一切开发都能好很多。\n目前已经实现了画面捕捉和串流，本地测试通过，Tailnet应该可以实现连接但是会丢包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding 程序开发｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1101,
+          "like_count": 2219,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

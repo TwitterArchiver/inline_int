@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2085714816128192514",
+    "created_at": "2026-08-07T23:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085869113667186907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705975838506979328",
+          "start": 0,
+          "username": "seventeenidol_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085869113667186907",
+    "in_reply_to_user_id": "1705975838506979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085864769601581171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seventeenidol_ 可能是不适应中药中的一些成分吧，毕竟中药成分太杂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2085714816128192514",
+        "created_at": "2026-08-07T23:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085869113667186907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705975838506979328",
+              "start": 0,
+              "username": "seventeenidol_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085869113667186907",
+        "in_reply_to_user_id": "1705975838506979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085864769601581171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seventeenidol_ 可能是不适应中药中的一些成分吧，毕竟中药成分太杂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705975838506979328",
+        "conversation_id": "2085714816128192514",
+        "created_at": "2026-08-07T23:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085864769601581171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085864769601581171",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085714816128192514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 为什么我喝中药没给病治好给肝指标喝异常了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1254,
+          "like_count": 2430,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T16:02:09.000Z",
+        "description": "我是一个乐乐，网蛆",
+        "id": "1705975838506979328",
+        "name": "鸡哥，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705980040805015552/t8E_CEZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "seventeenidol_",
+        "verified": false
+      }
+    ]
+  }
+}

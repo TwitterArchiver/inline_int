@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {
+      "cover_media": "3_2090122677084381184",
+      "entities": {
+        "mentions": [
+          {
+            "end": 53,
+            "start": 44,
+            "username": "USERNAME"
+          }
+        ]
+      },
+      "plain_text": "最近有不少推友因为 “Inauthentic Behavior / 不真实行为” 被暂停或封禁。msk又升级了X的防护机制，现在触发短时大量涨fo，大量发帖，IP短时内大量变动和其他因素就可能导致封号。不过，还是有一定几率可以把号救回来，而且用不了多久，有能力一定去试一试。\n申诉用英文比较好，可以用中文写后丢给AI翻译，或者用我下面给的模板修改。不要直接照抄，不然同一个模板被抄多次会被判定为批量申诉导致失败。让AI重写一遍就可以了。\n不管怎么样，都最好提到自己没有违反X规定。\nI am appealing the suspension of my account @USERNAME for alleged inauthentic behavior. I have reviewed X's current Authenticity Policy, including its provisions regarding unauthorized automation, engagement manipulation, coordinated account activity, spam, deceptive identities, and ban evasion. I do not believe my account engaged in these behaviors. I therefore respectfully request a fresh manual review of the underlying activity rather than a reiteration of the original enforcement decision.\n其次要搞清楚自己为什么被封，我在这里分成两类处理。\n一，大量涨fo / 被转帖互动\n如果是确实有大量机器人账号转帖，点赞，关注你，那解封概率会大大降低。这种情况只能在发现的第一时间锁推处理，一般过一天也就好了。\n但不管你是不是，都可以用以下模板尝试。\nMy account recently experienced a significant increase in followers. This growth was organic and resulted from increased visibility and engagement with my posts. I did not purchase followers, use follow-exchange services, automate follows, or use coordinated accounts to artificially increase my follower count. If the rapid increase in followers was treated as an abnormal signal, I respectfully request that X review whether the growth resulted from genuine user activity rather than platform manipulation.\n可以在以上模板中再提到最近涨fo原因，比如什么帖子火了之类的。\n二，大量发帖\n说自己在关注某一事件，连续回复其他用户，发大量原创短帖。\nI have been very active on X recently and may have posted or replied at a high frequency. However, these posts were manually written and submitted by me as a genuine user. I did not use bots, scripts, scheduling automation, mass-posting tools, or other software to generate or publish large numbers of posts. A high posting frequency alone should not be interpreted as automated or inauthentic activity, and I respectfully request a manual review of the actual content and posting behavior associated with my account.\n三，IP不稳定\n一般不是以上问题就是这一种情况了。一般都是机场的锅，注意代理节点一定要固定，频繁跳动非常容易触发风控，可以检查是否开启智能选择节点，如果有就关掉。并且上IP评分网站查询节点分数，尽量选择评分高，没有欺诈行为的节点，以免未来出问题。\n这种情况的申诉也比较简单，在申诉中可以直接提到自己使用代理或VPN。一定要提到自己没有违反X用户协议，最好可以引用法律支持。\nI regularly access X through a VPN/proxy for connectivity and privacy purposes. If changes in my IP address or apparent location contributed to this enforcement decision, I respectfully request a manual review of my actual account activity. My VPN/proxy does not automate any activity on X and is not used for engagement manipulation, coordinated account activity, ban evasion, or deceptive behavior.\n如果你是蓝V\n如果你是 X Premium / Premium+ 付费用户，X 当前针对 EU / EFTA / UK 以外地区的 Purchaser Terms 选择 Texas law 作为付费服务争议的适用法律。具体的，\nI am a paying X Premium subscriber. Because this enforcement action prevents me from accessing a Paid Service, I respectfully request a good-faith manual review of the factual basis for the suspension. Where applicable, I reserve my rights under relevant consumer-protection law, including the Texas Deceptive Trade Practices-Consumer Protection Act, Tex. Bus. & Com. Code §§ 17.46 and 17.50.\n这能很大程度增加解封几率。\n最后防封小妙招\n避免使用自动化脚本，插件\n用稳定的机场环境\n被大量机器人关注互动，及时锁推\n设置戏仿账号似乎有某种神秘力量不容易被封，可以试一试\n可以配置自动化账号设置\n不要一次性大量发帖，用定时推文隔一段时间发\n希望以上内容能帮助到你解除封号。",
+      "preview_text": "最近有不少推友因为 “Inauthentic Behavior / 不真实行为”",
+      "title": "X封号申诉指南"
+    },
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2090122746131062944",
+    "created_at": "2026-08-19T17:04:29.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090122746131062944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2090…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/article/2090111941226467329",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2090111941226467329",
+          "url": "https://t.co/x5cihJSLbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090122746131062944",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/x5cihJSLbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_2090122677084381184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGbgDiaYAAMp5K.jpg",
+        "width": 1983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2090122677084381184",
+          "entities": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "USERNAME"
+              }
+            ]
+          },
+          "plain_text": "最近有不少推友因为 “Inauthentic Behavior / 不真实行为” 被暂停或封禁。msk又升级了X的防护机制，现在触发短时大量涨fo，大量发帖，IP短时内大量变动和其他因素就可能导致封号。不过，还是有一定几率可以把号救回来，而且用不了多久，有能力一定去试一试。\n申诉用英文比较好，可以用中文写后丢给AI翻译，或者用我下面给的模板修改。不要直接照抄，不然同一个模板被抄多次会被判定为批量申诉导致失败。让AI重写一遍就可以了。\n不管怎么样，都最好提到自己没有违反X规定。\nI am appealing the suspension of my account @USERNAME for alleged inauthentic behavior. I have reviewed X's current Authenticity Policy, including its provisions regarding unauthorized automation, engagement manipulation, coordinated account activity, spam, deceptive identities, and ban evasion. I do not believe my account engaged in these behaviors. I therefore respectfully request a fresh manual review of the underlying activity rather than a reiteration of the original enforcement decision.\n其次要搞清楚自己为什么被封，我在这里分成两类处理。\n一，大量涨fo / 被转帖互动\n如果是确实有大量机器人账号转帖，点赞，关注你，那解封概率会大大降低。这种情况只能在发现的第一时间锁推处理，一般过一天也就好了。\n但不管你是不是，都可以用以下模板尝试。\nMy account recently experienced a significant increase in followers. This growth was organic and resulted from increased visibility and engagement with my posts. I did not purchase followers, use follow-exchange services, automate follows, or use coordinated accounts to artificially increase my follower count. If the rapid increase in followers was treated as an abnormal signal, I respectfully request that X review whether the growth resulted from genuine user activity rather than platform manipulation.\n可以在以上模板中再提到最近涨fo原因，比如什么帖子火了之类的。\n二，大量发帖\n说自己在关注某一事件，连续回复其他用户，发大量原创短帖。\nI have been very active on X recently and may have posted or replied at a high frequency. However, these posts were manually written and submitted by me as a genuine user. I did not use bots, scripts, scheduling automation, mass-posting tools, or other software to generate or publish large numbers of posts. A high posting frequency alone should not be interpreted as automated or inauthentic activity, and I respectfully request a manual review of the actual content and posting behavior associated with my account.\n三，IP不稳定\n一般不是以上问题就是这一种情况了。一般都是机场的锅，注意代理节点一定要固定，频繁跳动非常容易触发风控，可以检查是否开启智能选择节点，如果有就关掉。并且上IP评分网站查询节点分数，尽量选择评分高，没有欺诈行为的节点，以免未来出问题。\n这种情况的申诉也比较简单，在申诉中可以直接提到自己使用代理或VPN。一定要提到自己没有违反X用户协议，最好可以引用法律支持。\nI regularly access X through a VPN/proxy for connectivity and privacy purposes. If changes in my IP address or apparent location contributed to this enforcement decision, I respectfully request a manual review of my actual account activity. My VPN/proxy does not automate any activity on X and is not used for engagement manipulation, coordinated account activity, ban evasion, or deceptive behavior.\n如果你是蓝V\n如果你是 X Premium / Premium+ 付费用户，X 当前针对 EU / EFTA / UK 以外地区的 Purchaser Terms 选择 Texas law 作为付费服务争议的适用法律。具体的，\nI am a paying X Premium subscriber. Because this enforcement action prevents me from accessing a Paid Service, I respectfully request a good-faith manual review of the factual basis for the suspension. Where applicable, I reserve my rights under relevant consumer-protection law, including the Texas Deceptive Trade Practices-Consumer Protection Act, Tex. Bus. & Com. Code §§ 17.46 and 17.50.\n这能很大程度增加解封几率。\n最后防封小妙招\n避免使用自动化脚本，插件\n用稳定的机场环境\n被大量机器人关注互动，及时锁推\n设置戏仿账号似乎有某种神秘力量不容易被封，可以试一试\n可以配置自动化账号设置\n不要一次性大量发帖，用定时推文隔一段时间发\n希望以上内容能帮助到你解除封号。",
+          "preview_text": "最近有不少推友因为 “Inauthentic Behavior / 不真实行为”",
+          "title": "X封号申诉指南"
+        },
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2090122746131062944",
+        "created_at": "2026-08-19T17:04:29.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090122746131062944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2090…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2090111941226467329",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2090111941226467329",
+              "url": "https://t.co/x5cihJSLbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090122746131062944",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x5cihJSLbx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090122746131062944",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 649,
+          "like_count": 2916,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

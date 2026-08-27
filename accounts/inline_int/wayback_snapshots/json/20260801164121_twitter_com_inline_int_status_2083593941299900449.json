@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2083579242319663110",
+    "created_at": "2026-08-01T16:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083593941299900449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813088993652928513",
+          "start": 0,
+          "username": "hadesallspark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083593941299900449",
+    "in_reply_to_user_id": "1813088993652928513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083582657552937441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hadesallspark 已回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2083579242319663110",
+        "created_at": "2026-08-01T16:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083593941299900449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813088993652928513",
+              "start": 0,
+              "username": "hadesallspark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083593941299900449",
+        "in_reply_to_user_id": "1813088993652928513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083582657552937441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hadesallspark 已回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813088993652928513",
+        "conversation_id": "2083579242319663110",
+        "created_at": "2026-08-01T15:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083582657552937441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083582657552937441",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083579242319663110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 赚钱谁不爱，互关先搞起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜#蓝V互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "蓝V互fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1118,
+          "like_count": 2280,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T05:51:40.000Z",
+        "description": "大悲无泪，大悟无言，大笑无声",
+        "id": "1813088993652928513",
+        "location": "一切法相，皆是假名，本来即非，盖生即无生也",
+        "name": "花儿街的花和尚",
+        "pinned_tweet_id": "2062026051581100333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813100457075572736/iuzxAEVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9813,
+          "following_count": 10594,
+          "like_count": 2396,
+          "listed_count": 6,
+          "media_count": 1018,
+          "tweet_count": 4729
+        },
+        "url": "",
+        "username": "hadesallspark",
+        "verified": true
+      }
+    ]
+  }
+}

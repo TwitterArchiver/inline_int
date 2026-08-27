@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2087121319813169370",
+    "created_at": "2026-08-11T10:18:10.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087121388834619746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087121388834619746",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087121319813169370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 0.o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2087121319813169370",
+        "created_at": "2026-08-11T10:18:10.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087121388834619746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087121388834619746",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087121319813169370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 0.o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2087121319813169370",
+        "created_at": "2026-08-11T10:17:54.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087121319813169370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/xiey57828/status/2086823750721487334",
+              "start": 142,
+              "url": "https://t.co/Ry8WKZSYVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087121319813169370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本人决定完全开除自己的跨籍，因为本人发现自己只是会对男性性征产生焦虑恶心，强烈厌恶自己的生殖器，被当成女性也不会感到开心同样被当成男性也不会感到难过，经过多次尝试自我扭转和逃避现实后无效，遂尝试HRT减轻痛苦，但本人深知自己不是跨，且与传统跨性别不符（指派性别与认同性别不一致），目前看来本人只是个脑子有病的变态顺直男，还请大家以他/he代词称呼我，希望未来科技发展可以治好我的怪病😔"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086823750721487334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人决定完全开除自己的跨籍，因为本人发现自己只是会对男性性征产生焦虑恶心，强烈厌恶自己的生殖器，被当成女性也不会感到开心同样被当成男性也不会感到难过，经过多次尝试自我扭转和逃避现实后无效，遂尝试HRT减轻痛苦，但本人深知自己不是跨，且与传统跨性别不符（指派性别与认同性别不一致），目 https://t.co/Ry8WKZSYVF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087121388834619746",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1272,
+          "like_count": 2622,
+          "listed_count": 4,
+          "media_count": 303,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2087121319813169370",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2086651412025672124",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 622,
+          "like_count": 3421,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

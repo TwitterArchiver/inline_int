@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2078401478314836195",
+    "created_at": "2026-07-18T17:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078532315337343077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078532315337343077",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078401478314836195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 为什么会有这种瓜🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078401475534065664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNf3IVHbEAAZ2Jf.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2078401478314836195",
+        "created_at": "2026-07-18T17:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078532315337343077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078532315337343077",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078401478314836195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 为什么会有这种瓜🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078401475534065664"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078401478314836195",
+        "created_at": "2026-07-18T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078401478314836195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMxcJ7aEKj",
+              "end": 170,
+              "expanded_url": "https://x.com/NL8526/status/2078401478314836195/photo/1",
+              "media_key": "3_2078401475534065664",
+              "start": 147,
+              "url": "https://t.co/ZMxcJ7aEKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078401478314836195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "尊敬的买家，您好：\n如果您购入我们的西瓜，发现其出现了形似哺乳动物肌肉组织的媫构，请您轐必担心，这是■ ■ 鬇常慶况，我？&？▽们保愸咱家的𫠎是釁鲜纔纔纔纔采齋，酾用的都是â¬𣰝𢡬�有殛��濷■ ■ ■ \n飂？飂、、、飂？、\n请放顖饗{[%]|\\^}~��、、\n\n享用，祝您用餐愉快！\n\n吃下我？吃下我？吃下我？吃下我？吃下我？吃下我？吃下𢦠？吃下𢦠？吃下𢦠？吃下𢦠？吃下𢦠？吃下𢦠？吃下𢦠？瘛下𢦠？瘛下𢦠？瘛下𢦠？瘛下𢦠？瘛下𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？瘛䶝𢦠？成为？�▽�、，成为我们、？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 9910,
+          "like_count": 163,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "尊敬的买家，您好：\n如果您购入我们的西瓜，发现其出现了形似哺乳动物肌肉组织的媫构，请您轐必担心，这是■ ■ 鬇常慶况，我？&amp;？▽们保愸咱家的𫠎是釁鲜纔纔纔纔采齋，酾用的都是â¬𣰝𢡬�有殛��濷■ ■ ■ \n飂？飂、、、飂？、\n请放顖饗{[%]|\\^}~��、、\n\n享用，祝您用餐愉快！ https://t.co/ZMxcJ7aEKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1093,
+          "like_count": 2076,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私🩵 包含梗图 🙏抽象致歉 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 935,
+          "like_count": 22396,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

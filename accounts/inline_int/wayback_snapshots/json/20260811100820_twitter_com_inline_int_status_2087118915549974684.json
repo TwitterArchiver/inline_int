@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "card_uri": "https://t.co/x8zj6LD9R3",
+    "conversation_id": "2087118915549974684",
+    "created_at": "2026-08-11T10:08:20.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087118915549974684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Contribute to intqwq/mcsvr development by creating an account on GitHub.",
+          "display_url": "github.com/intqwq/mcsvr",
+          "end": 47,
+          "expanded_url": "https://github.com/intqwq/mcsvr",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2087118919308054528/M-8fgsbd?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2087118919308054528/M-8fgsbd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "GitHub - intqwq/mcsvr",
+          "unwound_url": "https://github.com/intqwq/mcsvr",
+          "url": "https://t.co/x8zj6LD9R3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087118915549974684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MC服务器管理脚本\n自动配置/管理+可视化面板\nhttps://t.co/x8zj6LD9R3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "card_uri": "https://t.co/x8zj6LD9R3",
+        "conversation_id": "2087118915549974684",
+        "created_at": "2026-08-11T10:08:20.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087118915549974684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to intqwq/mcsvr development by creating an account on GitHub.",
+              "display_url": "github.com/intqwq/mcsvr",
+              "end": 47,
+              "expanded_url": "https://github.com/intqwq/mcsvr",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2087118919308054528/M-8fgsbd?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087118919308054528/M-8fgsbd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "GitHub - intqwq/mcsvr",
+              "unwound_url": "https://github.com/intqwq/mcsvr",
+              "url": "https://t.co/x8zj6LD9R3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087118915549974684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MC服务器管理脚本\n自动配置/管理+可视化面板\nhttps://t.co/x8zj6LD9R3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087118915549974684",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1272,
+          "like_count": 2619,
+          "listed_count": 4,
+          "media_count": 303,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

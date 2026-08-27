@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2081754565381341653",
+    "created_at": "2026-07-28T12:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082084392726630905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684425717579227136",
+          "start": 0,
+          "username": "foxneko333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082084392726630905",
+    "in_reply_to_user_id": "1684425717579227136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081783675264635129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxneko333 确实在关注🤔说起来我现在吃的药就是他家的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2081754565381341653",
+        "created_at": "2026-07-28T12:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082084392726630905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684425717579227136",
+              "start": 0,
+              "username": "foxneko333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082084392726630905",
+        "in_reply_to_user_id": "1684425717579227136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081783675264635129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxneko333 确实在关注🤔说起来我现在吃的药就是他家的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684425717579227136",
+        "conversation_id": "2081754565381341653",
+        "created_at": "2026-07-27T16:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081783675264635129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081783675264635129",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081754565381341653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 可以关注恩华药业，这是我认为未来三年最值得关注的医药公司之一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?/重抑/CNCSer/OIer/发发梗图和日常/喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 1101,
+          "like_count": 2188,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T04:50:02.000Z",
+        "description": "09/炒股/社恐/穷鬼/社会的蛀虫/🏳️‍",
+        "id": "1684425717579227136",
+        "name": "Fox neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078139422592397312/SfkyLJvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 60,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "foxneko333",
+        "verified": false
+      }
+    ]
+  }
+}

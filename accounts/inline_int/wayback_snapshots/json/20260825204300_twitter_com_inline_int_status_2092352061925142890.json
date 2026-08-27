@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2092352061925142890",
+    "created_at": "2026-08-25T20:43:00.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092352061925142890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092352061925142890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我将用最直白，最不绕弯子的方式告诉你\n喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢把话憋在心里是因为没有人能接得住情绪吗\n喜欢比你大的是因为从没有人为你出谋划策吗\n喜欢一个人是因为知道从来没人会一直陪着你吗"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将用最直白，最不绕弯子的方式告诉你\n喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2092352061925142890",
+        "created_at": "2026-08-25T20:43:00.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092352061925142890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092352061925142890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我将用最直白，最不绕弯子的方式告诉你\n喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢把话憋在心里是因为没有人能接得住情绪吗\n喜欢比你大的是因为从没有人为你出谋划策吗\n喜欢一个人是因为知道从来没人会一直陪着你吗"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将用最直白，最不绕弯子的方式告诉你\n喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092352061925142890",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 675,
+          "like_count": 3065,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

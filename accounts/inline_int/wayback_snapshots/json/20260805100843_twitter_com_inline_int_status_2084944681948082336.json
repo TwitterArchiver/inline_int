@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2084944681948082336",
+    "created_at": "2026-08-05T10:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084944681948082336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A branching competitive-programming adventure from first output to advanced algorithms.",
+          "display_url": "game.intqwq.com",
+          "end": 23,
+          "expanded_url": "https://game.intqwq.com/",
+          "start": 0,
+          "status": 200,
+          "title": "AlgoQuest // Learn. Code. Conquer.",
+          "unwound_url": "https://game.intqwq.com/",
+          "url": "https://t.co/lPuf1EWw5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084944681948082336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lPuf1EWw5t\n测试新做的网站\n个人感觉挺烂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2084944681948082336",
+        "created_at": "2026-08-05T10:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084944681948082336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A branching competitive-programming adventure from first output to advanced algorithms.",
+              "display_url": "game.intqwq.com",
+              "end": 23,
+              "expanded_url": "https://game.intqwq.com/",
+              "start": 0,
+              "status": 200,
+              "title": "AlgoQuest // Learn. Code. Conquer.",
+              "unwound_url": "https://game.intqwq.com/",
+              "url": "https://t.co/lPuf1EWw5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084944681948082336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lPuf1EWw5t\n测试新做的网站\n个人感觉挺烂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1237,
+          "like_count": 2375,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

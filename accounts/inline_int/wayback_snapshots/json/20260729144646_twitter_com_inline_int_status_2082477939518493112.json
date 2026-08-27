@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2082429674395996266",
+    "created_at": "2026-07-29T14:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082477939518493112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862765396111368192",
+          "start": 0,
+          "username": "erickalithi6941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082477939518493112",
+    "in_reply_to_user_id": "1862765396111368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082429674395996266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erickalithi6941 不许乱吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2082429674395996266",
+        "created_at": "2026-07-29T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082477939518493112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862765396111368192",
+              "start": 0,
+              "username": "erickalithi6941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082477939518493112",
+        "in_reply_to_user_id": "1862765396111368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082429674395996266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erickalithi6941 不许乱吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862765396111368192",
+        "conversation_id": "2082429674395996266",
+        "created_at": "2026-07-29T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082429674395996266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082429674395996266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非致死性血清素综合征真好啊..能用身体的痛苦抵掉精神上的痛苦，持续一两天不再难受，5-HT2C受体激活抑制食欲的效果也非常强。可惜VTA区的5-HT2C受体还没脱敏，抑制性GABA神经元还在抑制多巴胺能神经元，造成很重的执行功能障碍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding 程序开发｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1101,
+          "like_count": 2219,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2022 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout (?) | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 165,
+          "like_count": 3051,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "erickalithi6941",
+        "verified": false
+      }
+    ]
+  }
+}

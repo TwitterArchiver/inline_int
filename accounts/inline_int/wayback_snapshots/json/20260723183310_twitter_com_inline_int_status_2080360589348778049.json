@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2080039805828952440",
+    "created_at": "2026-07-23T18:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080360589348778049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080360589348778049",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080360357806374990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 咱也是😭当时还很健全"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2208,
+        "height": 1920,
+        "media_key": "13_2080360170023264256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080360170023264256/img/U1Cu-MVADwYVsqPm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360170023264256/vid/avc1/320x568/A-daqDXdKEOlreZ3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080360170023264256/pl/jy23HN-xBp4EuoOz.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360170023264256/vid/avc1/720x1280/NpnAZtzY4n50QSzy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360170023264256/vid/avc1/1080x1920/vyOC7jZ8GMkE3e9e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360170023264256/vid/avc1/480x852/n2viMyVY4Gjdui8D.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 17788,
+        "height": 1080,
+        "media_key": "13_2080360200549351424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080360200549351424/img/QjobCFrnll7pEFVV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080360200549351424/pl/VTiv579Rzu39XBo6.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360200549351424/vid/avc1/480x270/reicOD2bK4V_KD-l.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360200549351424/vid/avc1/1920x1080/iqJ9y--diJOvwrS9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360200549351424/vid/avc1/1280x720/j7CXb24sI65AyUPw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360200549351424/vid/avc1/640x360/Y94Fsafcim3crx-t.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2080360270082473984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7spLcaAAAMiM4.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 36855,
+        "height": 1080,
+        "media_key": "13_2080360280958394368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080360280958394368/img/CMRREgzNNcphOndy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360280958394368/vid/avc1/1280x720/lxmHzI66zgfEsGMy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360280958394368/vid/avc1/1920x1080/so3wvdZ5kx06RLPo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360280958394368/vid/avc1/640x360/KBL6xWExkssCk2HJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080360280958394368/pl/t6np43bgrWemD36J.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080360280958394368/vid/avc1/480x270/_JlrXYpYP7NuPj1p.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2080039805828952440",
+        "created_at": "2026-07-23T18:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080360589348778049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080360589348778049",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080360357806374990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 咱也是😭当时还很健全"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080360170023264256",
+            "13_2080360200549351424",
+            "3_2080360270082473984",
+            "13_2080360280958394368"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "conversation_id": "2080039805828952440",
+        "created_at": "2026-07-23T18:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080360357806374990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Nyx1LHMPl",
+              "end": 57,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2080360357806374990/video/1",
+              "media_key": "13_2080360170023264256",
+              "start": 34,
+              "url": "https://t.co/0Nyx1LHMPl"
+            },
+            {
+              "display_url": "pic.x.com/0Nyx1LHMPl",
+              "end": 57,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2080360357806374990/video/1",
+              "media_key": "13_2080360200549351424",
+              "start": 34,
+              "url": "https://t.co/0Nyx1LHMPl"
+            },
+            {
+              "display_url": "pic.x.com/0Nyx1LHMPl",
+              "end": 57,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2080360357806374990/video/1",
+              "media_key": "3_2080360270082473984",
+              "start": 34,
+              "url": "https://t.co/0Nyx1LHMPl"
+            },
+            {
+              "display_url": "pic.x.com/0Nyx1LHMPl",
+              "end": 57,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2080360357806374990/video/1",
+              "media_key": "13_2080360280958394368",
+              "start": 34,
+              "url": "https://t.co/0Nyx1LHMPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080360357806374990",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080039805828952440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 咱也去过呢\n当时咱还没od。。还很单纯。。 https://t.co/0Nyx1LHMPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "你好，我是int！\n发发梗图/日常\n希望能带来快乐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1098,
+          "like_count": 2143,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n 普通的上海入 | 超级大s | 战绩：三刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党（表面家长不管党，实际家暴党）| 姐姐@vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 101,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 261,
+          "like_count": 6006,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true
+      }
+    ]
+  }
+}

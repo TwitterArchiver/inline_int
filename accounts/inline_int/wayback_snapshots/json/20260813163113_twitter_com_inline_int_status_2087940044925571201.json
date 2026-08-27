@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2087812085891916255",
+    "created_at": "2026-08-13T16:31:13.000Z",
+    "display_text_range": [
+      29,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087940044925571201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862765396111368192",
+          "start": 0,
+          "username": "erickalithi6941"
+        },
+        {
+          "end": 28,
+          "id": "2084213801918816256",
+          "start": 17,
+          "username": "starowoowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087940044925571201",
+    "in_reply_to_user_id": "1862765396111368192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087926075456397395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erickalithi6941 @starowoowo 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2087812085891916255",
+        "created_at": "2026-08-13T16:31:13.000Z",
+        "display_text_range": [
+          29,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087940044925571201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862765396111368192",
+              "start": 0,
+              "username": "erickalithi6941"
+            },
+            {
+              "end": 28,
+              "id": "2084213801918816256",
+              "start": 17,
+              "username": "starowoowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087940044925571201",
+        "in_reply_to_user_id": "1862765396111368192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087926075456397395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erickalithi6941 @starowoowo 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862765396111368192",
+        "conversation_id": "2087812085891916255",
+        "created_at": "2026-08-13T15:35:42.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087926075456397395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084213801918816256",
+              "start": 0,
+              "username": "starowoowo"
+            },
+            {
+              "end": 28,
+              "id": "2045513838850641921",
+              "start": 17,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087926075456397395",
+        "in_reply_to_user_id": "2084213801918816256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087812085891916255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starowoowo 这是真的 @inline_int ("
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087940044925571201",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1279,
+          "like_count": 2729,
+          "listed_count": 4,
+          "media_count": 314,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2022 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout (?) | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2087926075456397395",
+        "name": "Ericka Lithi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862765396111368192/1782670099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 188,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "erickalithi6941",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T09:47:41.000Z",
+        "description": "一只猫娘/mtf/音游入/二次元/出厂日期2010.12.27/没有丝毫经济的穷逼😭",
+        "id": "2084213801918816256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087842741686239347",
+        "name": "starowo🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084213801918816256/1786015828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084215611928784896/PYUDZ8gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 102,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "starowoowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

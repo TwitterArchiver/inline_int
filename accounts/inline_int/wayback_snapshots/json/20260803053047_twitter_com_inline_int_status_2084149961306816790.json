@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2084149961306816790",
+    "created_at": "2026-08-03T05:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084149961306816790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 57,
+          "id": "1720665183188922368",
+          "start": 52,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hhcvhw18221/st…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/hhcvhw18221/status/2084105338068816118",
+          "start": 58,
+          "url": "https://t.co/E8V21tv5TK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084149961306816790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084105338068816118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我2026年3月以来的所有推文，从1到100，我的男娘指数是多少？\n\n直接给我数据，不用做任何解释。@grok https://t.co/E8V21tv5TK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2084149961306816790",
+        "created_at": "2026-08-03T05:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084149961306816790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1720665183188922368",
+              "start": 52,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hhcvhw18221/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/hhcvhw18221/status/2084105338068816118",
+              "start": 58,
+              "url": "https://t.co/E8V21tv5TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084149961306816790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084105338068816118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文，从1到100，我的男娘指数是多少？\n\n直接给我数据，不用做任何解释。@grok https://t.co/E8V21tv5TK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924119398497026050",
+        "conversation_id": "2084105338068816118",
+        "created_at": "2026-08-03T02:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084105338068816118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1720665183188922368",
+              "start": 52,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Sager_wang07/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Sager_wang07/status/2084098853561942359",
+              "start": 58,
+              "url": "https://t.co/3TnibAFHud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084105338068816118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084098853561942359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文，从1到100，我的男娘指数是多少？\n\n直接给我数据，不用做任何解释。@grok https://t.co/3TnibAFHud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜#蓝V互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "蓝V互fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1222,
+          "like_count": 2332,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8903121,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7255,
+          "media_count": 9213102,
+          "tweet_count": 133622505
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号 mtf  身高175 一个苦逼中专生",
+        "id": "1924119398497026050",
+        "location": "纳塔 烟迷主",
+        "name": "茜 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046082434874359876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 355,
+          "like_count": 770,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": true
+      }
+    ]
+  }
+}

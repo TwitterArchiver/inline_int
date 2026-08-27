@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2078987987560652800"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2079288223973724462",
+    "created_at": "2026-07-20T19:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079288223973724462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1862765396111368192",
+          "start": 3,
+          "username": "erickalithi6941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079288223973724462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078987990068809854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erickalithi6941: 小调查：大家最喜欢od哪一种作用机制的药物喵（？\n不od的孩子们不要参与哦～"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-07-26T23:38:56.000Z",
+        "id": "2078987987560652800",
+        "options": [
+          {
+            "label": "单胺(多巴胺，血清素，去甲肾上腺素)系统",
+            "position": 1,
+            "votes": 1
+          },
+          {
+            "label": "γ-氨基丁酸(GABA)系统或钙离子通道",
+            "position": 2,
+            "votes": 4
+          },
+          {
+            "label": "谷氨酸系统",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "阿片受体",
+            "position": 4,
+            "votes": 2
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2078987987560652800"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2079288223973724462",
+        "created_at": "2026-07-20T19:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079288223973724462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1862765396111368192",
+              "start": 3,
+              "username": "erickalithi6941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079288223973724462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078987990068809854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erickalithi6941: 小调查：大家最喜欢od哪一种作用机制的药物喵（？\n不od的孩子们不要参与哦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2078987987560652800"
+          ]
+        },
+        "author_id": "1862765396111368192",
+        "conversation_id": "2078987990068809854",
+        "created_at": "2026-07-19T23:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078987990068809854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078987990068809854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小调查：大家最喜欢od哪一种作用机制的药物喵（？\n不od的孩子们不要参与哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1093,
+          "like_count": 2083,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 95,
+          "like_count": 2521,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "erickalithi6941",
+        "verified": false
+      }
+    ]
+  }
+}

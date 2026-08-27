@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085618479529439232"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2085618487158845645",
+    "created_at": "2026-08-07T06:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085618487158845645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6QPRx3bKO",
+          "end": 46,
+          "expanded_url": "https://x.com/inline_int/status/2085618487158845645/photo/1",
+          "media_key": "3_2085618479529439232",
+          "start": 23,
+          "url": "https://t.co/t6QPRx3bKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085618487158845645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来“电子海洛因”这个称号也来自于那个学校吗 https://t.co/t6QPRx3bKO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2085618479529439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGa9QFXsAA5Py9.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085618479529439232"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2085618487158845645",
+        "created_at": "2026-08-07T06:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085618487158845645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6QPRx3bKO",
+              "end": 46,
+              "expanded_url": "https://x.com/inline_int/status/2085618487158845645/photo/1",
+              "media_key": "3_2085618479529439232",
+              "start": 23,
+              "url": "https://t.co/t6QPRx3bKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085618487158845645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来“电子海洛因”这个称号也来自于那个学校吗 https://t.co/t6QPRx3bKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1251,
+          "like_count": 2406,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}
