@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2097081848870600904",
+    "created_at": "2026-09-07T21:57:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T22:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097081848870600904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652012591961772032",
+          "start": 3,
+          "username": "RealYDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097081848870600904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096876195069784199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealYDT: Tibo 最近说了一句让我很不舒服的话。\n\n他在恢复 Plus 的 5 小时限制时，把 Plus 用户描述为\"相对休闲的新用户\"，同时保持 Pro $100 和 $200 不受影响。\n\n言下之意：Plus 用户不是认真用 AI 的人，认真的人早升 Pr…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2097081848870600904",
+        "created_at": "2026-09-07T21:57:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097081848870600904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652012591961772032",
+              "start": 3,
+              "username": "RealYDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097081848870600904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096876195069784199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealYDT: Tibo 最近说了一句让我很不舒服的话。\n\n他在恢复 Plus 的 5 小时限制时，把 Plus 用户描述为\"相对休闲的新用户\"，同时保持 Pro $100 和 $200 不受影响。\n\n言下之意：Plus 用户不是认真用 AI 的人，认真的人早升 Pr…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652012591961772032",
+        "conversation_id": "2096876195069784199",
+        "created_at": "2026-09-07T08:20:17.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096876195069784199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096876195069784199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Tibo 最近说了一句让我很不舒服的话。\n\n他在恢复 Plus 的 5 小时限制时，把 Plus 用户描述为\"相对休闲的新用户\"，同时保持 Pro $100 和 $200 不受影响。\n\n言下之意：Plus 用户不是认真用 AI 的人，认真的人早升 Pro 了。\n\n这个定义的潜台词是什么？专业意味着你要么整天写代码、要么经营一家烧 token 的公司、要么足够有钱把算力当零花钱。\n\n但你想想每天在用 AI 工作的都是什么人，教师在用它备课，研究员在用它读论文，设计师在用它出方案，律师在用它查案例，医生在用它整理病历，记者在用它做调查，独立开发者在用它写一个人的产品。\n\n这些人每天依赖 AI 工作，他们不是休闲用户。他们只是付不起或者不需要付 200 刀月费。\n\n每月 20 刀不代表不认真，它只代表你不在硅谷科技公司的报销体系里。\n\n这其实暴露了整个 AI 行业一个更深的问题：它正在用消费金额定义用户价值。付得越多越重要，付得少就是休闲，这套逻辑会把 AI 变成什么？一个只为高消费用户优化的产品。\n\n而那些被归类为\"休闲\"的人，教师、医生、独立开发者，恰恰是 AI 最应该赋能的群体。他们预算有限但需求真实。他们不是不愿意花钱，是他们的职业本身就不产生硅谷级别的收入。\n\n你不能一边说 AI 将改变所有行业，一边把大多数行业的从业者归类为休闲用户。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 127839,
+          "like_count": 719,
+          "quote_count": 21,
+          "reply_count": 189,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "Tibo 最近说了一句让我很不舒服的话。\n\n他在恢复 Plus 的 5 小时限制时，把 Plus 用户描述为\"相对休闲的新用户\"，同时保持 Pro $100 和 $200 不受影响。\n\n言下之意：Plus 用户不是认真用 AI 的人，认真的人早升 Pro 了。\n\n这个定义的潜台词是什么？专业意味着你要么整天写代码、要么经营一家烧 token"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\nmail: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097081848870600904",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 694,
+          "like_count": 3542,
+          "listed_count": 5,
+          "media_count": 492,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-28T18:11:24.000Z",
+        "description": "推特顶尖的AI工程实践者\n深耕AI编程、智能体架构与安全审计\n提供极具实操价值的深度评测。\n商务咨询： 957897121@qq.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MKE258",
+                "end": 23,
+                "expanded_url": "https://github.com/MKE258",
+                "start": 0,
+                "url": "https://t.co/q0YUaHXq4v"
+              }
+            ]
+          }
+        },
+        "id": "1652012591961772032",
+        "is_identity_verified": true,
+        "location": "New York City",
+        "most_recent_tweet_id": "2096984345798136316",
+        "name": "阿良｜AI 工作流",
+        "pinned_tweet_id": "2096772861784707563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652012591961772032/1782649480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069055722248392704/gSwrPuxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21000,
+          "following_count": 1222,
+          "like_count": 30899,
+          "listed_count": 84,
+          "media_count": 230,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/q0YUaHXq4v",
+        "username": "RealYDT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

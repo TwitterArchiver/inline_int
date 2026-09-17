@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095562612264378368",
+        "3_2095562629779795968",
+        "3_2095562647488049153",
+        "3_2095562664839942144"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095577565733802050",
+    "created_at": "2026-09-03T18:20:00.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095577565733802050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZRsXTN91G",
+          "end": 31,
+          "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+          "media_key": "3_2095562612264378368",
+          "start": 8,
+          "url": "https://t.co/iZRsXTN91G"
+        },
+        {
+          "display_url": "pic.x.com/iZRsXTN91G",
+          "end": 31,
+          "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+          "media_key": "3_2095562629779795968",
+          "start": 8,
+          "url": "https://t.co/iZRsXTN91G"
+        },
+        {
+          "display_url": "pic.x.com/iZRsXTN91G",
+          "end": 31,
+          "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+          "media_key": "3_2095562647488049153",
+          "start": 8,
+          "url": "https://t.co/iZRsXTN91G"
+        },
+        {
+          "display_url": "pic.x.com/iZRsXTN91G",
+          "end": 31,
+          "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+          "media_key": "3_2095562664839942144",
+          "start": 8,
+          "url": "https://t.co/iZRsXTN91G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095577565733802050",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095562612264378368"
+      },
+      {
+        "media_key": "3_2095562629779795968"
+      },
+      {
+        "media_key": "3_2095562647488049153"
+      },
+      {
+        "media_key": "3_2095562664839942144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不猎奇的我不玩 https://t.co/iZRsXTN91G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2095562612264378368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTvF9SboAA2v1A.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2095562629779795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTvG-ibsAAhAUQ.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2095562647488049153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTvIAgaMAEJODZ.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2095562664839942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTvJBJbEAAcKUz.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095562612264378368",
+            "3_2095562629779795968",
+            "3_2095562647488049153",
+            "3_2095562664839942144"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095577565733802050",
+        "created_at": "2026-09-03T18:20:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095577565733802050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZRsXTN91G",
+              "end": 31,
+              "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+              "media_key": "3_2095562612264378368",
+              "start": 8,
+              "url": "https://t.co/iZRsXTN91G"
+            },
+            {
+              "display_url": "pic.x.com/iZRsXTN91G",
+              "end": 31,
+              "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+              "media_key": "3_2095562629779795968",
+              "start": 8,
+              "url": "https://t.co/iZRsXTN91G"
+            },
+            {
+              "display_url": "pic.x.com/iZRsXTN91G",
+              "end": 31,
+              "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+              "media_key": "3_2095562647488049153",
+              "start": 8,
+              "url": "https://t.co/iZRsXTN91G"
+            },
+            {
+              "display_url": "pic.x.com/iZRsXTN91G",
+              "end": 31,
+              "expanded_url": "https://x.com/inline_int/status/2095577565733802050/photo/1",
+              "media_key": "3_2095562664839942144",
+              "start": 8,
+              "url": "https://t.co/iZRsXTN91G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095577565733802050",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095562612264378368"
+          },
+          {
+            "media_key": "3_2095562629779795968"
+          },
+          {
+            "media_key": "3_2095562647488049153"
+          },
+          {
+            "media_key": "3_2095562664839942144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不猎奇的我不玩 https://t.co/iZRsXTN91G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095577565733802050",
+        "name": "int",
+        "pinned_tweet_id": "2094694522781573508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 677,
+          "like_count": 3283,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

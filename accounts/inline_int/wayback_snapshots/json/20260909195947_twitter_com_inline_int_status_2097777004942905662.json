@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2097777004942905662",
+    "created_at": "2026-09-09T19:59:47.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097777004942905662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jreast_news/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/jreast_news/status/2097203973975351462",
+          "start": 30,
+          "url": "https://t.co/yvZFSM031M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097777004942905662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097203973975351462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们熟知的Suica卡将会换形象了\n现在的卡面可能要绝版了 https://t.co/yvZFSM031M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2097203930824654848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD3RZbQAAMxL4.png",
+        "width": 526
+      },
+      {
+        "height": 518,
+        "media_key": "3_2097203943516631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD4ArbcAAiL9K.png",
+        "width": 518
+      },
+      {
+        "height": 530,
+        "media_key": "3_2097203960050581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD4-RbgAA_nY9.png",
+        "width": 531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2097777004942905662",
+        "created_at": "2026-09-09T19:59:47.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097777004942905662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jreast_news/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jreast_news/status/2097203973975351462",
+              "start": 30,
+              "url": "https://t.co/yvZFSM031M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097777004942905662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203973975351462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们熟知的Suica卡将会换形象了\n现在的卡面可能要绝版了 https://t.co/yvZFSM031M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097203930824654848",
+            "3_2097203943516631040",
+            "3_2097203960050581504"
+          ]
+        },
+        "author_id": "1641361663021694976",
+        "conversation_id": "2097203973975351462",
+        "created_at": "2026-09-08T06:02:46.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097203973975351462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203930824654848",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            },
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203943516631040",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            },
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203960050581504",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097203973975351462",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097203930824654848"
+          },
+          {
+            "media_key": "3_2097203943516631040"
+          },
+          {
+            "media_key": "3_2097203960050581504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 402,
+                "start": 396,
+                "tag": "JR東日本"
+              },
+              {
+                "end": 409,
+                "start": 403,
+                "tag": "Suica"
+              },
+              {
+                "end": 418,
+                "start": 410,
+                "tag": "新キャラクター"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jreast.co.jp/suica-new-char…",
+                "end": 286,
+                "expanded_url": "https://www.jreast.co.jp/suica-new-character-vote/",
+                "start": 263,
+                "url": "https://t.co/EJoFNgSYuL"
+              },
+              {
+                "display_url": "jreast.co.jp/press/2026/202…",
+                "end": 394,
+                "expanded_url": "https://www.jreast.co.jp/press/2026/20260908_ho01.pdf",
+                "start": 371,
+                "url": "https://t.co/iPl8iYyvVD"
+              }
+            ]
+          },
+          "text": "／\nSuicaの新たなイメージキャラクターの選考投票をスタートします📢\n＼\n\nSuica導入時からイメージキャラクターを担ってきた「Suicaのペンギン」は、2027年3月31日に卒業し、同年4月1日から新たなイメージキャラクターにバトンタッチします🤝\nこれに伴い、新たなキャラクターを選考するお客さま投票を本日9月8日15時からスタートしました🎉\n最も多くの票を獲得した候補を新たなイメージキャラクターとして採用し、Suicaを導入した記念日である11月18日に発表します🎊\n\n↓↓↓お客さま投票の特設サイトはこちら↓↓↓\nhttps://t.co/EJoFNgSYuL\n特設サイトでは、原案候補の選定に至る過程をまとめた動画公開や、投票に関する注意事項も掲載していますので、ぜひご覧ください❗\n\n↓↓↓プレスリリースの詳細はこちら↓↓↓\nhttps://t.co/iPl8iYyvVD\n\n#JR東日本 #Suica #新キャラクター"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22556,
+          "impression_count": 130728775,
+          "like_count": 103058,
+          "quote_count": 47560,
+          "reply_count": 5458,
+          "retweet_count": 36288
+        },
+        "reply_settings": "everyone",
+        "text": "／\nSuicaの新たなイメージキャラクターの選考投票をスタートします📢\n＼\n\nSuica導入時からイメージキャラクターを担ってきた「Suicaのペンギン」は、2027年3月31日に卒業し、同年4月1日から新たなイメージキャラクターにバトンタッチします🤝 https://t.co/BWlctS0D1V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\nmail: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097777004942905662",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 696,
+          "like_count": 3642,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/583122926326583297/fdjHKu43_bigger.png",
+          "description": "JR東日本（公式）",
+          "url": "https://twitter.com/JREast_official",
+          "user_id": [
+            "3104527237"
+          ]
+        },
+        "created_at": "2023-03-30T08:48:14.000Z",
+        "description": "JR東日本ニュースリリース専用公式アカウントです。HP上でお知らせしているJR東日本の最新情報をお届けしていきます！お寄せいただいたコメントへのお返事はいたしかねます。ご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jreast.co.jp/press/index.ht…",
+                "end": 23,
+                "expanded_url": "https://www.jreast.co.jp/press/index.html/",
+                "start": 0,
+                "url": "https://t.co/pc1qdTyG6g"
+              }
+            ]
+          }
+        },
+        "id": "1641361663021694976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097559192248930504",
+        "name": "JR 東日本ニュースリリース【公式】",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641361663021694976/1770851871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641367469427417088/zdR8Q4ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32797,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 184,
+          "media_count": 777,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/pc1qdTyG6g",
+        "username": "JREast_News",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

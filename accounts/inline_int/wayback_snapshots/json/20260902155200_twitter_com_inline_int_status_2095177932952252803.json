@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095177808616251392"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2095177932952252803",
+    "created_at": "2026-09-02T15:52:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095177932952252803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kto7jRRWOd",
+          "end": 32,
+          "expanded_url": "https://x.com/inline_int/status/2095177932952252803/video/1",
+          "media_key": "13_2095177808616251392",
+          "start": 9,
+          "url": "https://t.co/kto7jRRWOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095177932952252803",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095177808616251392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墓志铭级别的三枪 https://t.co/kto7jRRWOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23457,
+        "height": 1080,
+        "media_key": "13_2095177808616251392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095177808616251392/img/9HB5KF3RyuesSEh_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095177808616251392/vid/avc1/1280x720/OkfGN7evWnvsNtxq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095177808616251392/vid/avc1/1920x1080/KEaj34i0eHuhKt4S.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095177808616251392/vid/avc1/480x270/Xlij9bFPLlXaKETo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095177808616251392/pl/FAuxwerQABQYwQjW.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095177808616251392/vid/avc1/640x360/bdJ-n4KkMFWTiC5s.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095177808616251392"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2095177932952252803",
+        "created_at": "2026-09-02T15:52:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095177932952252803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kto7jRRWOd",
+              "end": 32,
+              "expanded_url": "https://x.com/inline_int/status/2095177932952252803/video/1",
+              "media_key": "13_2095177808616251392",
+              "start": 9,
+              "url": "https://t.co/kto7jRRWOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095177932952252803",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095177808616251392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墓志铭级别的三枪 https://t.co/kto7jRRWOd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095177932952252803",
+        "name": "int",
+        "pinned_tweet_id": "2094694522781573508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 674,
+          "like_count": 3259,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2092850512974819813",
+    "created_at": "2026-08-27T05:43:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092850512974819813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092850512974819813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在我看来，一个软件只要做到它本分的功能就可以了，地图软件你就做地图和导航，视频软件你就用来看视频，往各个软件里面塞什么贷款什么短视频，真的有必要吗？谁会用你那些破东西，又占空间又影响观感。再不济你也应该给我一个关掉这些功能的选项，至少让我看的清爽一点。还有各种广告满天飞，毫无底线，我只能说，国内软件基本上烂完了。反观国内软件的外国版，大部分就顺眼多了。你说厂商不会做软件吗？只是一味的捞钱而已。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我看来，一个软件只要做到它本分的功能就可以了，地图软件你就做地图和导航，视频软件你就用来看视频，往各个软件里面塞什么贷款什么短视频，真的有必要吗？谁会用你那些破东西，又占空间又影响观感。再不济你也应该给我一个关掉这些功能的选项，至少让我看的清爽一点。还有各种广告满天飞，毫无底线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2092850512974819813",
+        "created_at": "2026-08-27T05:43:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092850512974819813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092850512974819813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在我看来，一个软件只要做到它本分的功能就可以了，地图软件你就做地图和导航，视频软件你就用来看视频，往各个软件里面塞什么贷款什么短视频，真的有必要吗？谁会用你那些破东西，又占空间又影响观感。再不济你也应该给我一个关掉这些功能的选项，至少让我看的清爽一点。还有各种广告满天飞，毫无底线，我只能说，国内软件基本上烂完了。反观国内软件的外国版，大部分就顺眼多了。你说厂商不会做软件吗？只是一味的捞钱而已。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我看来，一个软件只要做到它本分的功能就可以了，地图软件你就做地图和导航，视频软件你就用来看视频，往各个软件里面塞什么贷款什么短视频，真的有必要吗？谁会用你那些破东西，又占空间又影响观感。再不济你也应该给我一个关掉这些功能的选项，至少让我看的清爽一点。还有各种广告满天飞，毫无底线"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092850512974819813",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 671,
+          "like_count": 3094,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2092695331108802959",
+    "created_at": "2026-08-27T04:51:39.000Z",
+    "display_text_range": [
+      16,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092837425240584454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416976245544345605",
+          "start": 0,
+          "username": "Bili40014error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092837425240584454",
+    "in_reply_to_user_id": "1416976245544345605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092833844408033621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bili40014error 何意味你以为我没用过吗\n我在日本一直用的谷歌地图\n好不好用我能不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2092695331108802959",
+        "created_at": "2026-08-27T04:51:39.000Z",
+        "display_text_range": [
+          16,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092837425240584454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416976245544345605",
+              "start": 0,
+              "username": "Bili40014error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092837425240584454",
+        "in_reply_to_user_id": "1416976245544345605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092833844408033621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bili40014error 何意味你以为我没用过吗\n我在日本一直用的谷歌地图\n好不好用我能不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2092695331108802959",
+        "created_at": "2026-08-27T04:37:26.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092833844408033621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092833844408033621",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092695331108802959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 你是傻逼吗，我在洛杉矶我怎么不知道谷歌地图好用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092837425240584454",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 671,
+          "like_count": 3094,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092837402079535133",
+        "name": "40014error",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416976245544345605/1636532771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 582,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 975
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

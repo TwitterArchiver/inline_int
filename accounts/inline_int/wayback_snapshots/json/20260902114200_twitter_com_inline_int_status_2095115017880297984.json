@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095084947128430592",
+        "3_2095084962185969664"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2095115017880297984",
+    "created_at": "2026-09-02T11:42:00.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095115017880297984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWvkq4GtWy",
+          "end": 54,
+          "expanded_url": "https://x.com/inline_int/status/2095115017880297984/photo/1",
+          "media_key": "3_2095084947128430592",
+          "start": 31,
+          "url": "https://t.co/jWvkq4GtWy"
+        },
+        {
+          "display_url": "pic.x.com/jWvkq4GtWy",
+          "end": 54,
+          "expanded_url": "https://x.com/inline_int/status/2095115017880297984/photo/1",
+          "media_key": "3_2095084962185969664",
+          "start": 31,
+          "url": "https://t.co/jWvkq4GtWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095115017880297984",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095084947128430592"
+      },
+      {
+        "media_key": "3_2095084962185969664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我天真邪恶的学长呀，竟然想要骗我去部门干活，我是绝对不会去的 https://t.co/jWvkq4GtWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2095084947128430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM8qL_bsAAtpUU.jpg",
+        "width": 1078
+      },
+      {
+        "height": 370,
+        "media_key": "3_2095084962185969664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM8rEFbgAAEucl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095084947128430592",
+            "3_2095084962185969664"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2095115017880297984",
+        "created_at": "2026-09-02T11:42:00.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095115017880297984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWvkq4GtWy",
+              "end": 54,
+              "expanded_url": "https://x.com/inline_int/status/2095115017880297984/photo/1",
+              "media_key": "3_2095084947128430592",
+              "start": 31,
+              "url": "https://t.co/jWvkq4GtWy"
+            },
+            {
+              "display_url": "pic.x.com/jWvkq4GtWy",
+              "end": 54,
+              "expanded_url": "https://x.com/inline_int/status/2095115017880297984/photo/1",
+              "media_key": "3_2095084962185969664",
+              "start": 31,
+              "url": "https://t.co/jWvkq4GtWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095115017880297984",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095084947128430592"
+          },
+          {
+            "media_key": "3_2095084962185969664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我天真邪恶的学长呀，竟然想要骗我去部门干活，我是绝对不会去的 https://t.co/jWvkq4GtWy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095115017880297984",
+        "name": "int",
+        "pinned_tweet_id": "2094694522781573508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 675,
+          "like_count": 3254,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 1269
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2095558639205622180",
+    "created_at": "2026-09-03T17:04:47.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095558639205622180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "int's Space · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1Xxyg…",
+          "end": 26,
+          "expanded_url": "https://x.com/i/spaces/1XxygwlEbbZGM",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2095558641290268672/N43BXgkN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095558641290268672/N43BXgkN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "Happening now: 无题 / X",
+          "unwound_url": "https://x.com/i/spaces/1XxygwlEbbZGM",
+          "url": "https://t.co/M7A7aAZ9Oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095558639205622180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无题 https://t.co/M7A7aAZ9Oc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2095558639205622180",
+        "created_at": "2026-09-03T17:04:47.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095558639205622180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "int's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Xxyg…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/spaces/1XxygwlEbbZGM",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2095558641290268672/N43BXgkN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095558641290268672/N43BXgkN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "Happening now: 无题 / X",
+              "unwound_url": "https://x.com/i/spaces/1XxygwlEbbZGM",
+              "url": "https://t.co/M7A7aAZ9Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095558639205622180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无题 https://t.co/M7A7aAZ9Oc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095558639205622180",
+        "name": "int",
+        "pinned_tweet_id": "2094694522781573508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 677,
+          "like_count": 3273,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2092606964710982070",
+    "created_at": "2026-08-27T13:12:19.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092963421742608591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902890461607698432",
+          "start": 0,
+          "username": "HoodyLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092963421742608591",
+    "in_reply_to_user_id": "1902890461607698432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092606964710982070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoodyLiu 这下直观了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25380,
+        "height": 1920,
+        "media_key": "13_2092606898143133696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092606898143133696/img/jRpJp1Y1NIuJ-gk4.jpg",
+        "public_metrics": {
+          "view_count": 173553
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092606898143133696/vid/avc1/320x568/zHYkRE3pkCW7qQT_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092606898143133696/vid/avc1/720x1280/rvcYeQZRyoORbS-M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092606898143133696/vid/avc1/480x852/iS3B-82uuMaVaAm_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092606898143133696/vid/avc1/1080x1920/HlCSQOMdWtFT728s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092606898143133696/pl/nBJijANM5zvI9gV-.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2092606964710982070",
+        "created_at": "2026-08-27T13:12:19.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092963421742608591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902890461607698432",
+              "start": 0,
+              "username": "HoodyLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092963421742608591",
+        "in_reply_to_user_id": "1902890461607698432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092606964710982070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoodyLiu 这下直观了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092606898143133696"
+          ]
+        },
+        "author_id": "1902890461607698432",
+        "conversation_id": "2092606964710982070",
+        "created_at": "2026-08-26T13:35:53.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092606964710982070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQK0iH0Vbx",
+              "end": 50,
+              "expanded_url": "https://x.com/HoodyLiu/status/2092606964710982070/video/1",
+              "media_key": "13_2092606898143133696",
+              "start": 27,
+              "url": "https://t.co/QQK0iH0Vbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092606964710982070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092606898143133696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 710,
+          "impression_count": 355498,
+          "like_count": 3725,
+          "quote_count": 82,
+          "reply_count": 262,
+          "retweet_count": 688
+        },
+        "reply_settings": "everyone",
+        "text": "打仗有多烧钱？\n\n换成RTX 5090显卡你就知道了 https://t.co/QQK0iH0Vbx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092963421742608591",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 672,
+          "like_count": 3124,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T01:10:32.000Z",
+        "description": "👷 Ex-ByteDancer · Led user growth backend at Jianying/Jimeng\n🎬 Now AI Co-Founder · Building in stealth\n🧙 剪映醒图即梦老法师，学习审美 ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatjipiti.ai",
+                "end": 23,
+                "expanded_url": "https://chatjipiti.ai",
+                "start": 0,
+                "url": "https://t.co/LlWbK8kv5b"
+              }
+            ]
+          }
+        },
+        "id": "1902890461607698432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092952581022892189",
+        "name": "Hoody",
+        "pinned_tweet_id": "2083122077746544831",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902890461607698432/1784535576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060617190295097345/Zj0V-1t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 1066,
+          "like_count": 8969,
+          "listed_count": 38,
+          "media_count": 1055,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/LlWbK8kv5b",
+        "username": "HoodyLiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

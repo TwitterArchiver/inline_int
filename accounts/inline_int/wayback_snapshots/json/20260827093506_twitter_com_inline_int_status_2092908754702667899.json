@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045513838850641921",
+    "conversation_id": "2092848012758577439",
+    "created_at": "2026-08-27T09:35:06.000Z",
+    "display_text_range": [
+      22,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092908754702667899"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "寻找身边的厕所"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        },
+        {
+          "end": 21,
+          "id": "1902568136450424832",
+          "start": 14,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092908754702667899",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092848012758577439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 @aoim33 #寻找身边的厕所"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092848004126695424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtKK97bYAA9Y0A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2092848012758577439",
+        "created_at": "2026-08-27T09:35:06.000Z",
+        "display_text_range": [
+          22,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092908754702667899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "寻找身边的厕所"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            },
+            {
+              "end": 21,
+              "id": "1902568136450424832",
+              "start": 14,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092908754702667899",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092848012758577439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 @aoim33 #寻找身边的厕所"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092848004126695424"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "2092848012758577439",
+        "created_at": "2026-08-27T05:33:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092848012758577439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0Vt682D0S",
+              "end": 23,
+              "expanded_url": "https://x.com/umehara02A01/status/2092848012758577439/photo/1",
+              "media_key": "3_2092848004126695424",
+              "start": 0,
+              "url": "https://t.co/s0Vt682D0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092848012758577439",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092848004126695424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s0Vt682D0S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092908754702667899",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 671,
+          "like_count": 3112,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいかちゃん/高校2年生/mtf（x?🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/zh-hant/ja/en/@happysugarlifeA 推し/暗黒面垢@sakurazakiAC02/大好きな姉💕@rafaeru54035903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "sakurazakiAC02"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "rafaeru54035903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "is_identity_verified": false,
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "most_recent_tweet_id": "2092898791636820335",
+        "name": "梅原寒咲🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2088255840302358771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766644305660420096/1783255749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084055985422061568/b3nnME5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 2443,
+          "like_count": 21367,
+          "listed_count": 7,
+          "media_count": 619,
+          "tweet_count": 10708
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2092896452695740564",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6931,
+          "following_count": 3257,
+          "like_count": 61484,
+          "listed_count": 23,
+          "media_count": 4006,
+          "tweet_count": 15775
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

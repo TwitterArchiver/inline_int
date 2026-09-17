@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096993689252003840",
+        "3_2096993707082088448"
+      ]
+    },
+    "author_id": "2045513838850641921",
+    "conversation_id": "2097099342830092604",
+    "created_at": "2026-09-07T23:07:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T00:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097099342830092604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T9PdSH0YDo",
+          "end": 32,
+          "expanded_url": "https://x.com/inline_int/status/2097099342830092604/photo/1",
+          "media_key": "3_2096993689252003840",
+          "start": 9,
+          "url": "https://t.co/T9PdSH0YDo"
+        },
+        {
+          "display_url": "pic.x.com/T9PdSH0YDo",
+          "end": 32,
+          "expanded_url": "https://x.com/inline_int/status/2097099342830092604/photo/1",
+          "media_key": "3_2096993707082088448",
+          "start": 9,
+          "url": "https://t.co/T9PdSH0YDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097099342830092604",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096993689252003840"
+      },
+      {
+        "media_key": "3_2096993707082088448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁家路由器成精了 https://t.co/T9PdSH0YDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2096993689252003840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoEpmgaAAA0_G8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2096993707082088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoEqo7bgAAw2ww.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096993689252003840",
+            "3_2096993707082088448"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2097099342830092604",
+        "created_at": "2026-09-07T23:07:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097099342830092604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9PdSH0YDo",
+              "end": 32,
+              "expanded_url": "https://x.com/inline_int/status/2097099342830092604/photo/1",
+              "media_key": "3_2096993689252003840",
+              "start": 9,
+              "url": "https://t.co/T9PdSH0YDo"
+            },
+            {
+              "display_url": "pic.x.com/T9PdSH0YDo",
+              "end": 32,
+              "expanded_url": "https://x.com/inline_int/status/2097099342830092604/photo/1",
+              "media_key": "3_2096993707082088448",
+              "start": 9,
+              "url": "https://t.co/T9PdSH0YDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097099342830092604",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096993689252003840"
+          },
+          {
+            "media_key": "3_2096993707082088448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家路由器成精了 https://t.co/T9PdSH0YDo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\nmail: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097099342830092604",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 694,
+          "like_count": 3550,
+          "listed_count": 5,
+          "media_count": 495,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
